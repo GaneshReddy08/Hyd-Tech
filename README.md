@@ -45,9 +45,20 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **119** roles open total · updated `2026-10-02T14:04:31+00:00`
+### 🆕 4 new roles this update · 123 tracked total · updated `2026-10-02T18:17:13+00:00`
 
-Nothing new since the last run — [browse all 119 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| Robert Half | 2 |
+| TRU Staffing Partners | 1 |
+| Great American Insurance | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-02 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-02 |
+| [AI Advisor](https://jobs.trustaffingpartners.com/?jobid=7645#/jobs/7645) | TRU Staffing Partners | Anywhere | 2026-10-02 |
+| [Senior Business Intelligence Analyst - Enterprise Analytics](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Remote-USA/Senior-Business-Intelligence-Analyst---Enterprise-Analytics_R9559) | Great American Insurance | Remote (USA) | 2026-10-02 |
 <!-- JOBS:END -->
 
 ## How it works
