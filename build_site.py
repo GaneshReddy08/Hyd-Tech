@@ -220,12 +220,17 @@ function metro(loc){
   return 'other';
 }
 function experienceBand(j){
-  const s=((j.title||'')+' '+(j.description||'')).toLowerCase();
+  const title=(j.title||'').toLowerCase();
+  const s=(title+' '+(j.description||'')).toLowerCase();
   if(/fresher|new grad|graduate|entry.level|intern(ship)?|no experience/.test(s)) return 'fresher';
   let m=s.match(/(\d+)\s*(?:-|to|–)\s*(\d+)\s*(?:\+\s*)?(?:years?|yrs?)/);
   if(m){const n=Number(m[1]); return n<=2?'0-2':n<=5?'3-5':n<=8?'6-8':'9+';}
   m=s.match(/(\d+)\s*\+?\s*(?:years?|yrs?)/);
   if(m){const n=Number(m[1]); return n<=2?'0-2':n<=5?'3-5':n<=8?'6-8':'9+';}
+  // ATS job levels often encode entry level as "Engineer I" or "Analyst 1"
+  // without saying "0-2 years". Keep this title-only so a description's
+  // explicit experience requirement above always takes precedence.
+  if(/\b(?:engineer|developer|analyst|scientist|programmer|tester)\s+(?:i|1)\b|\b(?:level|lvl)\s*1\b/.test(title)) return '0-2';
   if(/junior|associate|entry.level|graduate/.test(s)) return '0-2';
   if(/staff engineer|principal|distinguished|director|architect/.test(s)) return '9+';
   if(/senior|lead/.test(s)) return '6-8';
