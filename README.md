@@ -2,7 +2,7 @@
 
 **A free, auto-updating board for software, data, AI, cloud and other tech roles in Hyderabad and remote — refreshed every 2 hours.**
 
-### 👉 [Browse the live board »](https://siddarthareddy8.github.io/CinciTech/)
+### 👉 [Browse the live board »](https://ganeshreddy08.github.io/Hyd-Tech/)
 
 ---
 
