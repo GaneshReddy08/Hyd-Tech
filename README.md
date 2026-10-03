@@ -45,21 +45,16 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 126 tracked total · updated `2026-10-02T22:42:25+00:00`
+### 🆕 2 new roles this update · 128 tracked total · updated `2026-10-03T01:41:37+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 3 |
-| Mindlance | 1 |
-| Cincinnati Children's Hospital | 1 |
+| Robert Half | 2 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Software Engineering - Software Engineer II](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33190116#/jobs/33190116) | Artech | Remote, CA | 2026-10-02 |
-| [Gaming - Gameplay Software Engineer III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33189557#/jobs/33189557) | Artech | Remote, CA | 2026-10-02 |
-| [Agronomic Modeling -- Data Scientist](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33188736#/jobs/33188736) | Artech | Remote, IA | 2026-10-02 |
-| [Software Engineer II](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29411305#/jobs/29411305) | Mindlance | Remote, CA | 2026-10-02 |
-| [EMR Analyst I - Epic Billing](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/EMR-Analyst-I---Epic-Billing_JR225598) | Cincinnati Children's Hospital | Remote | 2026-10-02 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-03 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-03 |
 <!-- JOBS:END -->
 
 ## How it works
