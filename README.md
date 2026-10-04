@@ -45,16 +45,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 128 tracked total · updated `2026-10-04T19:56:03+00:00`
+### 🆕 1 new roles this update · 127 tracked total · updated `2026-10-04T23:34:27+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
+| L3Harris | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-04 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-04 |
+| [Sr. Specialist, Supplier Quality Engineer - International Suppliers](https://careers.l3harris.com/en/job/united-states/sr-specialist-supplier-quality-engineer-international-suppliers/4832/100716887248) | L3Harris | Remote | 2026-10-04 |
 <!-- JOBS:END -->
 
 ## How it works
