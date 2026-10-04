@@ -45,16 +45,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 128 tracked total · updated `2026-10-04T08:50:27+00:00`
+### 🟢 No new roles this update · **126** roles open total · updated `2026-10-04T15:48:29+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Robert Half | 2 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-04 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-04 |
+Nothing new since the last run — [browse all 126 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
