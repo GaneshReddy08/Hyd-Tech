@@ -45,15 +45,24 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 127 tracked total · updated `2026-10-04T23:34:27+00:00`
+### 🆕 9 new roles this update · 136 tracked total · updated `2026-10-05T05:55:56+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| L3Harris | 1 |
+| Njoyn (CGI) | 7 |
+| Robert Half | 2 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Sr. Specialist, Supplier Quality Engineer - International Suppliers](https://careers.l3harris.com/en/job/united-states/sr-specialist-supplier-quality-engineer-international-suppliers/4832/100716887248) | L3Harris | Remote | 2026-10-04 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-05 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-05 |
+| [ServiceNow Developer — ITOM (Discovery / Service Mapping)](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2277&BRID=1338570&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-05 |
+| [ServiceNow Developer - Generalist](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2276&BRID=1338569&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-05 |
+| [ServiceNow Developer - Generalist](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2275&BRID=1338568&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-05 |
+| [ServiceNow Business Analyst](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2274&BRID=1338567&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-05 |
+| [ServiceNow Business Analyst](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2273&BRID=1338566&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-05 |
+| [ServiceNow Scrum Master](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2272&BRID=1338565&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-05 |
+| [ServiceNow Scrum Master](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2271&BRID=1338564&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-05 |
 <!-- JOBS:END -->
 
 ## How it works
