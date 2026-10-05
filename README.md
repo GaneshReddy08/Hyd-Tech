@@ -45,24 +45,21 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 9 new roles this update · 136 tracked total · updated `2026-10-05T05:55:56+00:00`
+### 🆕 5 new roles this update · 138 tracked total · updated `2026-10-05T14:54:17+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Njoyn (CGI) | 7 |
-| Robert Half | 2 |
+| Njoyn (CGI) | 3 |
+| Synchrony | 1 |
+| Hyland Software | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-05 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-05 |
-| [ServiceNow Developer — ITOM (Discovery / Service Mapping)](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2277&BRID=1338570&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-05 |
-| [ServiceNow Developer - Generalist](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2276&BRID=1338569&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-05 |
-| [ServiceNow Developer - Generalist](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2275&BRID=1338568&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-05 |
-| [ServiceNow Business Analyst](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2274&BRID=1338567&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-05 |
-| [ServiceNow Business Analyst](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2273&BRID=1338566&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-05 |
-| [ServiceNow Scrum Master](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2272&BRID=1338565&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-05 |
-| [ServiceNow Scrum Master](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2271&BRID=1338564&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-05 |
+| [ServiceNow Tester](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2280&BRID=1338642&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-05 |
+| [Director Consulting Delivery - GenAIOps India Leader](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2562&BRID=1338625&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-05 |
+| [Mid-Level :: Performance Tester (Load Runner & JMeter)](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-0750&BRID=1331865&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-05 |
+| [AVP Senior Data Engineer L11](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/AVP-Senior-Data-Engineer-L11_2602425) | Synchrony | Hyderabad IN | 2026-10-05 |
+| [Lead Cyber Security Analyst](https://careers-hyland.icims.com/jobs/14519/lead-cyber-security-analyst/job?in_iframe=1) | Hyland Software | Hyderabad, TG | 2026-10-05 |
 <!-- JOBS:END -->
 
 ## How it works
