@@ -45,21 +45,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 138 tracked total · updated `2026-10-05T14:54:17+00:00`
+### 🆕 3 new roles this update · 141 tracked total · updated `2026-10-05T22:56:18+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Njoyn (CGI) | 3 |
-| Synchrony | 1 |
-| Hyland Software | 1 |
+| Robert Half | 2 |
+| Root Insurance | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [ServiceNow Tester](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2280&BRID=1338642&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-05 |
-| [Director Consulting Delivery - GenAIOps India Leader](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2562&BRID=1338625&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-05 |
-| [Mid-Level :: Performance Tester (Load Runner & JMeter)](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-0750&BRID=1331865&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-05 |
-| [AVP Senior Data Engineer L11](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/AVP-Senior-Data-Engineer-L11_2602425) | Synchrony | Hyderabad IN | 2026-10-05 |
-| [Lead Cyber Security Analyst](https://careers-hyland.icims.com/jobs/14519/lead-cyber-security-analyst/job?in_iframe=1) | Hyland Software | Hyderabad, TG | 2026-10-05 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-05 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-05 |
+| [Software Engineer Intern: Agent Commerce](https://ats.rippling.com/joinroot/jobs/845e02f9-86ee-41f9-a9ad-730ed08fca3b) | Root Insurance | Remote (United States) | 2026-10-05 |
 <!-- JOBS:END -->
 
 ## How it works
