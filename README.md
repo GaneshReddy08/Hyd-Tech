@@ -45,17 +45,29 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 142 tracked total · updated `2026-10-06T06:43:15+00:00`
+### 🆕 10 new roles this update · 152 tracked total · updated `2026-10-06T15:36:01+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Mindlance | 3 |
+| Njoyn (CGI) | 4 |
+| Robert Half | 2 |
+| Artech | 1 |
+| Diebold Nixdorf | 1 |
+| Cleveland Clinic | 1 |
+| L3Harris | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Scientist - Data Analytics & Engineering - Data Analyst V](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29420120#/jobs/29420120) | Mindlance | Remote (PST or MST, maybe CST), CA | 2026-10-06 |
-| [CX Data Analyst IV](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29420115#/jobs/29420115) | Mindlance | Remote (PST or MST, maybe CST), CA | 2026-10-06 |
-| [Data Scientist](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29419891#/jobs/29419891) | Mindlance | Remote (EST), NY | 2026-10-06 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-06 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-06 |
+| [Senior GCP Cloud Engineer / Architect / SME](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33201789#/jobs/33201789) | Artech | Remote, NY | 2026-10-06 |
+| [Associate consultant -Forward Deployed Engineers with Go, Next.js 16, React 19 and PostgreSQL](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-0048&BRID=1315142&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-06 |
+| [Java Full Stack Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-2033&BRID=1338987&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-06 |
+| [SAP Governance/Quality resource profile](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-0349&BRID=1338982&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-06 |
+| [QA / Quality Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-1664&BRID=1338970&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-06 |
+| [Senior Vulnerability Management Specialist](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20329) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-10-06 |
+| [Epic Access Optimization Analyst I - Capacity Management](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Epic-Access-Optimization-Analyst-I---Capacity-Management_351650) | Cleveland Clinic | Remote Location | 2026-10-06 |
+| [Senior Associate, Systems Engineering](https://careers.l3harris.com/en/job/united-states/senior-associate-systems-engineering/4832/101614233904) | L3Harris | Remote | 2026-10-06 |
 <!-- JOBS:END -->
 
 ## How it works
