@@ -45,18 +45,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 141 tracked total · updated `2026-10-05T22:56:18+00:00`
+### 🆕 3 new roles this update · 142 tracked total · updated `2026-10-06T06:43:15+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
-| Root Insurance | 1 |
+| Mindlance | 3 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-05 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-05 |
-| [Software Engineer Intern: Agent Commerce](https://ats.rippling.com/joinroot/jobs/845e02f9-86ee-41f9-a9ad-730ed08fca3b) | Root Insurance | Remote (United States) | 2026-10-05 |
+| [Data Scientist - Data Analytics & Engineering - Data Analyst V](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29420120#/jobs/29420120) | Mindlance | Remote (PST or MST, maybe CST), CA | 2026-10-06 |
+| [CX Data Analyst IV](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29420115#/jobs/29420115) | Mindlance | Remote (PST or MST, maybe CST), CA | 2026-10-06 |
+| [Data Scientist](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29419891#/jobs/29419891) | Mindlance | Remote (EST), NY | 2026-10-06 |
 <!-- JOBS:END -->
 
 ## How it works
