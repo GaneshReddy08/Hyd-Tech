@@ -45,18 +45,20 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 156 tracked total · updated `2026-10-07T01:55:46+00:00`
+### 🆕 5 new roles this update · 159 tracked total · updated `2026-10-07T09:03:49+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
-| Compunnel | 1 |
+| Njoyn (CGI) | 3 |
+| Procter & Gamble | 2 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-07 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-07 |
-| [Oracle Cloud OICS & VBCS Engineer](https://jobs.compunnel.com/jobs/5938328) | Compunnel | Hyderabad, Telangana, India | 2026-10-07 |
+| [ServiceNow Technical Architect — Conversational / GenAI](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2282&BRID=1339359&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-07 |
+| [Senior Software Engineer - Gen AI](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0626-1867&BRID=1322838&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-07 |
+| [ServiceNow Technical Architect — SAM (Licensing)](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2281&BRID=1339335&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-07 |
+| [DevOps Engineer](https://pg.wd5.myworkdayjobs.com/1000/job/HYDERABAD-OFFICE-APAC-PSC-GDOP/DevOps-Engineer_R000158561) | Procter & Gamble | HYDERABAD OFFICE APAC PSC GDOP | 2026-10-07 |
+| [Senior Data Architect](https://pg.wd5.myworkdayjobs.com/1000/job/HYDERABAD-OFFICE-APAC-PSC-GDOP/Senior-Data-Architect_R000159260) | Procter & Gamble | HYDERABAD OFFICE APAC PSC GDOP | 2026-10-07 |
 <!-- JOBS:END -->
 
 ## How it works
