@@ -45,20 +45,27 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 159 tracked total · updated `2026-10-07T09:03:49+00:00`
+### 🆕 10 new roles this update · 169 tracked total · updated `2026-10-07T17:48:20+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Njoyn (CGI) | 3 |
-| Procter & Gamble | 2 |
+| Artech | 3 |
+| Diebold Nixdorf | 3 |
+| Robert Half | 2 |
+| Njoyn (CGI) | 2 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [ServiceNow Technical Architect — Conversational / GenAI](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2282&BRID=1339359&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-07 |
-| [Senior Software Engineer - Gen AI](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0626-1867&BRID=1322838&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-07 |
-| [ServiceNow Technical Architect — SAM (Licensing)](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2281&BRID=1339335&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-07 |
-| [DevOps Engineer](https://pg.wd5.myworkdayjobs.com/1000/job/HYDERABAD-OFFICE-APAC-PSC-GDOP/DevOps-Engineer_R000158561) | Procter & Gamble | HYDERABAD OFFICE APAC PSC GDOP | 2026-10-07 |
-| [Senior Data Architect](https://pg.wd5.myworkdayjobs.com/1000/job/HYDERABAD-OFFICE-APAC-PSC-GDOP/Senior-Data-Architect_R000159260) | Procter & Gamble | HYDERABAD OFFICE APAC PSC GDOP | 2026-10-07 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-07 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-07 |
+| [.NET + Angular Full Stack engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33208576#/jobs/33208576) | Artech | Remote | 2026-10-07 |
+| [.NET Full Stack Engineer (Healthcare Domain)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33208575#/jobs/33208575) | Artech | Remote, FL | 2026-10-07 |
+| [ML Ops Enterprise Architect](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33206776#/jobs/33206776) | Artech | Remote | 2026-10-07 |
+| [Data Quality, SQL, Collibra, Python, S3, Cloud file processing, Data profiling, Git](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-0760&BRID=1316967&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-07 |
+| [Data Quality, SQL, Collibra, Python, S3, Cloud file processing, Data profiling, Git](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-0758&BRID=1316970&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-07 |
+| [Associate Service Desk Representative](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19499) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-10-07 |
+| [Associate Service Desk Representative](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19562) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-10-07 |
+| [Senior Business Intelligence Analyst](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19592) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-10-07 |
 <!-- JOBS:END -->
 
 ## How it works
