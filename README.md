@@ -45,18 +45,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 153 tracked total · updated `2026-10-06T21:23:42+00:00`
+### 🆕 3 new roles this update · 156 tracked total · updated `2026-10-07T01:55:46+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Njoyn (CGI) | 2 |
-| Mindlance | 1 |
+| Robert Half | 2 |
+| Compunnel | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Engineering - Senior SAP BASIS Engineering / Admin](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29426119#/jobs/29426119) | Mindlance | Remote, FL | 2026-10-06 |
-| [VB.NET Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2043&BRID=1339170&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-06 |
-| [Ab Initio Software Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2024&BRID=1336144&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-06 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-07 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-07 |
+| [Oracle Cloud OICS & VBCS Engineer](https://jobs.compunnel.com/jobs/5938328) | Compunnel | Hyderabad, Telangana, India | 2026-10-07 |
 <!-- JOBS:END -->
 
 ## How it works
