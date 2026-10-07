@@ -45,27 +45,20 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 10 new roles this update · 169 tracked total · updated `2026-10-07T17:48:20+00:00`
+### 🆕 4 new roles this update · 171 tracked total · updated `2026-10-07T23:29:58+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 3 |
-| Diebold Nixdorf | 3 |
-| Robert Half | 2 |
-| Njoyn (CGI) | 2 |
+| Mindlance | 2 |
+| Russell Tobin | 1 |
+| CareSource | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-07 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-07 |
-| [.NET + Angular Full Stack engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33208576#/jobs/33208576) | Artech | Remote | 2026-10-07 |
-| [.NET Full Stack Engineer (Healthcare Domain)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33208575#/jobs/33208575) | Artech | Remote, FL | 2026-10-07 |
-| [ML Ops Enterprise Architect](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33206776#/jobs/33206776) | Artech | Remote | 2026-10-07 |
-| [Data Quality, SQL, Collibra, Python, S3, Cloud file processing, Data profiling, Git](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-0760&BRID=1316967&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-07 |
-| [Data Quality, SQL, Collibra, Python, S3, Cloud file processing, Data profiling, Git](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-0758&BRID=1316970&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-07 |
-| [Associate Service Desk Representative](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19499) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-10-07 |
-| [Associate Service Desk Representative](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19562) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-10-07 |
-| [Senior Business Intelligence Analyst](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19592) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-10-07 |
+| [Invoice-to-Cash Support Specialist (Billing Operations)](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29432322#/jobs/29432322) | Russell Tobin | Remote, CA | 2026-10-07 |
+| [Information Technology - Alteryx Administrator](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29430857#/jobs/29430857) | Mindlance | Remote, FL | 2026-10-07 |
+| [Information Technology - Systems Support - Tibco](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29430850#/jobs/29430850) | Mindlance | Remote, FL | 2026-10-07 |
+| [Systems Analyst III](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Systems-Analyst-III_R13052) | CareSource | Remote | 2026-10-07 |
 <!-- JOBS:END -->
 
 ## How it works
