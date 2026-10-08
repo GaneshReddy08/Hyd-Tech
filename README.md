@@ -45,20 +45,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 171 tracked total · updated `2026-10-07T23:29:58+00:00`
+### 🆕 4 new roles this update · 175 tracked total · updated `2026-10-08T06:26:12+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Mindlance | 2 |
-| Russell Tobin | 1 |
-| CareSource | 1 |
+| Robert Half | 2 |
+| Diebold Nixdorf | 2 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Invoice-to-Cash Support Specialist (Billing Operations)](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29432322#/jobs/29432322) | Russell Tobin | Remote, CA | 2026-10-07 |
-| [Information Technology - Alteryx Administrator](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29430857#/jobs/29430857) | Mindlance | Remote, FL | 2026-10-07 |
-| [Information Technology - Systems Support - Tibco](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29430850#/jobs/29430850) | Mindlance | Remote, FL | 2026-10-07 |
-| [Systems Analyst III](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Systems-Analyst-III_R13052) | CareSource | Remote | 2026-10-07 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-08 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-08 |
+| [Associate Service Desk Representative](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20115) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-10-08 |
+| [Associate Service Desk Representative](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20415) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-10-08 |
 <!-- JOBS:END -->
 
 ## How it works
