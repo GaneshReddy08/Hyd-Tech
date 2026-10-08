@@ -45,19 +45,33 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 175 tracked total · updated `2026-10-08T06:26:12+00:00`
+### 🆕 15 new roles this update · 188 tracked total · updated `2026-10-08T13:52:20+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
-| Diebold Nixdorf | 2 |
+| Njoyn (CGI) | 7 |
+| Diebold Nixdorf | 5 |
+| Cleveland Clinic | 1 |
+| Cincinnati Children's Hospital | 1 |
+| Hyland Software | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-08 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-08 |
-| [Associate Service Desk Representative](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20115) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-10-08 |
-| [Associate Service Desk Representative](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20415) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-10-08 |
+| [Software Engineer - AWS Cloud Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0925-1701&BRID=1325803&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-08 |
+| [SAP Vistex Consultant](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-0618&BRID=1339733&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-08 |
+| [SAP BTP Integration Consultant – SAP Vistex Project (Private Cloud & Interface Integration)](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-0621&BRID=1339732&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-08 |
+| [SAP Fiori / CAPM Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-0624&BRID=1339720&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-08 |
+| [ERP Functional Business Analyst – Performance Budgeting (PB)](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-0575&BRID=1339619&lang=1) | Njoyn (CGI) | Remote, United States | 2026-10-08 |
+| [Lead Dev (Full Stack)- Java Fullstack](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0626-2632&BRID=1331589&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-08 |
+| [ERP Functional Business Analyst – Finance](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-0576&BRID=1339615&lang=1) | Njoyn (CGI) | Remote, United States | 2026-10-08 |
+| [Associate Service Desk Representative](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20142) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-10-08 |
+| [Senior Service Desk Representative](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20401) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-10-08 |
+| [Lead Fullstack AI Development Engineer](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20451) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-10-08 |
+| [Advanced AI Technical Analyst](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20450) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-10-08 |
+| [Senior AI Platform/AgentOps Engineer(Azure)](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20454) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-10-08 |
+| [Systems Analyst III](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/EPIC-Resolute--Revenue-Cycle-Analyst-II_309370) | Cleveland Clinic | Remote Location | 2026-10-08 |
+| [Data Engineer II](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Data-Engineer-II_JR224794) | Cincinnati Children's Hospital | Remote | 2026-10-08 |
+| [Lead Data Analyst](https://careers-hyland.icims.com/jobs/14517/lead-data-analyst/job?in_iframe=1) | Hyland Software | Hyderabad, TG | 2026-10-08 |
 <!-- JOBS:END -->
 
 ## How it works
