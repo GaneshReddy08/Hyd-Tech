@@ -45,23 +45,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 6 new roles this update · 205 tracked total · updated `2026-10-09T17:30:32+00:00`
+### 🆕 3 new roles this update · 208 tracked total · updated `2026-10-09T23:07:58+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Cleveland Clinic | 3 |
-| Artech | 1 |
-| CareSource | 1 |
-| Root Insurance | 1 |
+| Robert Half | 2 |
+| IGS Energy | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior Backbase Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33222976#/jobs/33222976) | Artech | Remote | 2026-10-09 |
-| [AI Program Manager](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/AI-Program-Manager_R13956) | CareSource | Remote | 2026-10-09 |
-| [Senior Data Engineer, Data Platform](https://ats.rippling.com/joinroot/jobs/7ebf4e4a-2f22-4694-90c0-d76e157ed819) | Root Insurance | Remote (United States) | 2026-10-09 |
-| [Azure Cloud Engineer II](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Azure-Cloud-Engineer-II_351982) | Cleveland Clinic | Remote Location | 2026-10-09 |
-| [System Analyst II - Financial Reporting](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/System-Analyst-I---Financial-Reporting_334987) | Cleveland Clinic | Remote Location | 2026-10-09 |
-| [AWS Cloud Engineer II](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/AWS-Cloud-Engineer-II_351986) | Cleveland Clinic | Remote Location | 2026-10-09 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-09 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-09 |
+| [Lead, Residential Solar QA & Partner Success](https://igsenergy.wd1.myworkdayjobs.com/IGS/job/Ohio-Remote/Lead--Residential-Solar-QA---Partner-Success_R6381) | IGS Energy | Ohio Remote | 2026-10-09 |
 <!-- JOBS:END -->
 
 ## How it works
