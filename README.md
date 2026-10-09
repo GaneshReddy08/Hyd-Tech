@@ -45,15 +45,24 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 194 tracked total · updated `2026-10-09T00:54:25+00:00`
+### 🆕 7 new roles this update · 201 tracked total · updated `2026-10-09T09:35:49+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 1 |
+| Robert Half | 2 |
+| Njoyn (CGI) | 2 |
+| Diebold Nixdorf | 2 |
+| Honeywell | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Appian Production Support Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33219152#/jobs/33219152) | Artech | Remote | 2026-10-09 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-09 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-09 |
+| [Business Analyst / Senior Business Analyst with ERP HRM](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-0142&BRID=1333860&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-09 |
+| [Senior Software Engineer-Data Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0426-1384&BRID=1340104&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-09 |
+| [Service Desk Representative](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20410) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-10-09 |
+| [Senior Service Desk Representative](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20411) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-10-09 |
+| [Sr IT Architect](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/158979) | Honeywell | Hyderabad, Telangana, India | 2026-10-09 |
 <!-- JOBS:END -->
 
 ## How it works
