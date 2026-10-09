@@ -45,25 +45,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 7 new roles this update · 195 tracked total · updated `2026-10-08T20:17:06+00:00`
+### 🆕 1 new roles this update · 194 tracked total · updated `2026-10-09T00:54:25+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
-| Njoyn (CGI) | 2 |
 | Artech | 1 |
-| CareSource | 1 |
-| Synchrony | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-08 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-08 |
-| [.Net RUST Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33216565#/jobs/33216565) | Artech | Remote, FL | 2026-10-08 |
-| [SAP BW Consultant](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-0550&BRID=1339938&lang=1) | Njoyn (CGI) | Remote, United States | 2026-10-08 |
-| [Mid-Level :: Performance Tester (Load Runner & JMeter)](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-0678&BRID=1339934&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-08 |
-| [AI Platform Enablement Engineer III](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/AI-Platform-Enablement-Engineer-III_R13967) | CareSource | Remote | 2026-10-08 |
-| [API Engineer 1 - Credit (L08)](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/API-Engineer-1---Credit--L08-_2602789-1) | Synchrony | Hyderabad IN | 2026-10-08 |
+| [Appian Production Support Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33219152#/jobs/33219152) | Artech | Remote | 2026-10-09 |
 <!-- JOBS:END -->
 
 ## How it works
