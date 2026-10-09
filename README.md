@@ -45,24 +45,23 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 7 new roles this update · 201 tracked total · updated `2026-10-09T09:35:49+00:00`
+### 🆕 6 new roles this update · 205 tracked total · updated `2026-10-09T17:30:32+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
-| Njoyn (CGI) | 2 |
-| Diebold Nixdorf | 2 |
-| Honeywell | 1 |
+| Cleveland Clinic | 3 |
+| Artech | 1 |
+| CareSource | 1 |
+| Root Insurance | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-09 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-09 |
-| [Business Analyst / Senior Business Analyst with ERP HRM](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-0142&BRID=1333860&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-09 |
-| [Senior Software Engineer-Data Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0426-1384&BRID=1340104&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-09 |
-| [Service Desk Representative](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20410) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-10-09 |
-| [Senior Service Desk Representative](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20411) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-10-09 |
-| [Sr IT Architect](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/158979) | Honeywell | Hyderabad, Telangana, India | 2026-10-09 |
+| [Senior Backbase Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33222976#/jobs/33222976) | Artech | Remote | 2026-10-09 |
+| [AI Program Manager](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/AI-Program-Manager_R13956) | CareSource | Remote | 2026-10-09 |
+| [Senior Data Engineer, Data Platform](https://ats.rippling.com/joinroot/jobs/7ebf4e4a-2f22-4694-90c0-d76e157ed819) | Root Insurance | Remote (United States) | 2026-10-09 |
+| [Azure Cloud Engineer II](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Azure-Cloud-Engineer-II_351982) | Cleveland Clinic | Remote Location | 2026-10-09 |
+| [System Analyst II - Financial Reporting](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/System-Analyst-I---Financial-Reporting_334987) | Cleveland Clinic | Remote Location | 2026-10-09 |
+| [AWS Cloud Engineer II](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/AWS-Cloud-Engineer-II_351986) | Cleveland Clinic | Remote Location | 2026-10-09 |
 <!-- JOBS:END -->
 
 ## How it works
