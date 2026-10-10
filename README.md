@@ -45,9 +45,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **206** roles open total · updated `2026-10-10T06:09:36+00:00`
+### 🆕 4 new roles this update · 210 tracked total · updated `2026-10-10T12:59:25+00:00`
 
-Nothing new since the last run — [browse all 206 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| Robert Half | 2 |
+| L3Harris | 2 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-10 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-10 |
+| [Senior Associate, Application Developer - Data Engineer](https://careers.l3harris.com/en/job/united-states/senior-associate-application-developer-data-engineer/4832/101662090320) | L3Harris | Remote | 2026-10-10 |
+| [Sr. Specialist, Supplier Quality Engineer](https://careers.l3harris.com/en/job/united-states/sr-specialist-supplier-quality-engineer/4832/101656983792) | L3Harris | Remote | 2026-10-10 |
 <!-- JOBS:END -->
 
 ## How it works
