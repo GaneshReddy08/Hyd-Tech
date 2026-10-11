@@ -45,16 +45,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 211 tracked total · updated `2026-10-11T00:04:29+00:00`
+### 🆕 5 new roles this update · 214 tracked total · updated `2026-10-11T06:14:02+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
+| L3Harris | 5 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-11 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-11 |
+| [Lead, Application Developer - Full Stack Developer](https://careers.l3harris.com/en/job/united-states/lead-application-developer-full-stack-developer/4832/101656983568) | L3Harris | Remote | 2026-10-11 |
+| [Specialist, Application Developer - Full Stack Developer](https://careers.l3harris.com/en/job/united-states/specialist-application-developer-full-stack-developer/4832/101656983648) | L3Harris | Remote | 2026-10-11 |
+| [Senior Associate, Application Developer - Full Stack Developer](https://careers.l3harris.com/en/job/united-states/senior-associate-application-developer-full-stack-developer/4832/101656983264) | L3Harris | Remote | 2026-10-11 |
+| [Senior Specialist, Application Developer - Full Stack Developer](https://careers.l3harris.com/en/job/united-states/senior-specialist-application-developer-full-stack-developer/4832/101656983536) | L3Harris | Remote | 2026-10-11 |
+| [Lead, Application Developer - Full Stack Developer](https://careers.l3harris.com/en/job/united-states/lead-application-developer-full-stack-developer/4832/101656983472) | L3Harris | Remote | 2026-10-11 |
 <!-- JOBS:END -->
 
 ## How it works
