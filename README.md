@@ -45,19 +45,20 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 214 tracked total · updated `2026-10-11T06:14:02+00:00`
+### 🆕 4 new roles this update · 218 tracked total · updated `2026-10-11T13:14:37+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| L3Harris | 5 |
+| Robert Half | 2 |
+| EDETEK | 1 |
+| Njoyn (CGI) | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Lead, Application Developer - Full Stack Developer](https://careers.l3harris.com/en/job/united-states/lead-application-developer-full-stack-developer/4832/101656983568) | L3Harris | Remote | 2026-10-11 |
-| [Specialist, Application Developer - Full Stack Developer](https://careers.l3harris.com/en/job/united-states/specialist-application-developer-full-stack-developer/4832/101656983648) | L3Harris | Remote | 2026-10-11 |
-| [Senior Associate, Application Developer - Full Stack Developer](https://careers.l3harris.com/en/job/united-states/senior-associate-application-developer-full-stack-developer/4832/101656983264) | L3Harris | Remote | 2026-10-11 |
-| [Senior Specialist, Application Developer - Full Stack Developer](https://careers.l3harris.com/en/job/united-states/senior-specialist-application-developer-full-stack-developer/4832/101656983536) | L3Harris | Remote | 2026-10-11 |
-| [Lead, Application Developer - Full Stack Developer](https://careers.l3harris.com/en/job/united-states/lead-application-developer-full-stack-developer/4832/101656983472) | L3Harris | Remote | 2026-10-11 |
+| [Manager Clinical Data Management](https://remoteOK.com/remote-jobs/remote-manager-clinical-data-management-edetek-1137481) | EDETEK | Remote (Worldwide) | 2026-10-11 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-11 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-11 |
+| [AI Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-0014&BRID=1331474&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-11 |
 <!-- JOBS:END -->
 
 ## How it works
