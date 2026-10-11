@@ -45,20 +45,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 218 tracked total · updated `2026-10-11T13:14:37+00:00`
+### 🟢 No new roles this update · **216** roles open total · updated `2026-10-11T19:22:10+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Robert Half | 2 |
-| EDETEK | 1 |
-| Njoyn (CGI) | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Manager Clinical Data Management](https://remoteOK.com/remote-jobs/remote-manager-clinical-data-management-edetek-1137481) | EDETEK | Remote (Worldwide) | 2026-10-11 |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-11 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-11 |
-| [AI Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-0014&BRID=1331474&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-11 |
+Nothing new since the last run — [browse all 216 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
