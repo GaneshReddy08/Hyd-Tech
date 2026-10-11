@@ -45,15 +45,16 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 209 tracked total · updated `2026-10-10T19:03:00+00:00`
+### 🆕 2 new roles this update · 211 tracked total · updated `2026-10-11T00:04:29+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Lemon.io | 1 |
+| Robert Half | 2 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior React Full stack Developer](https://remoteOK.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1137475) | Lemon.io | Remote (Worldwide) | 2026-10-10 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-11 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-11 |
 <!-- JOBS:END -->
 
 ## How it works
