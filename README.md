@@ -45,31 +45,25 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 14 new roles this update · 229 tracked total · updated `2026-10-12T15:58:09+00:00`
+### 🆕 8 new roles this update · 235 tracked total · updated `2026-10-12T23:28:21+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Njoyn (CGI) | 6 |
-| Diebold Nixdorf | 4 |
-| Robert Half | 2 |
+| Artech | 4 |
 | L3Harris | 2 |
+| Mindlance | 1 |
+| CareSource | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-12 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-12 |
-| [Data Scientist](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0826-0434&BRID=1331464&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-12 |
-| [Python, RestAPI, Microservice Architecture, AWS, RAG, Agentic AI Architect](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-1020&BRID=1316468&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-12 |
-| [Software Engineer - JAVA - Jr API Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-1970&BRID=1340461&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-12 |
-| [Software Engineer - Jr Mainframe Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-1971&BRID=1340460&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-12 |
-| [Senior Software Engineer - DB Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-1972&BRID=1340458&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-12 |
-| [SSE/097IN4A014-NetSuite Techno functional consultant](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0826-2137&BRID=1334824&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-12 |
-| [Associate Service Desk Representative](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20071) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-10-12 |
-| [Service Desk Representative](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20257) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-10-12 |
-| [Director Business Intelligence](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20316) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-10-12 |
-| [Service Desk Representative Level1](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20331) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-10-12 |
-| [Director, Application Developer](https://careers.l3harris.com/en/job/united-states/director-application-developer/4832/101656983600) | L3Harris | Remote | 2026-10-12 |
-| [Senior Manager, Application Developer - Full Stack Application Development Senior Manager](https://careers.l3harris.com/en/job/united-states/senior-manager-application-developer-full-stack-application-development-senior-manager/4832/101656983584) | L3Harris | Remote | 2026-10-12 |
+| [Jr. ServiceNow Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33234546#/jobs/33234546) | Artech | Remote | 2026-10-12 |
+| [Site Reliability Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33233882#/jobs/33233882) | Artech | Remote, FL | 2026-10-12 |
+| [Senior Infrastructure DevOps Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33233881#/jobs/33233881) | Artech | Remote | 2026-10-12 |
+| [Senior Cloud Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33233781#/jobs/33233781) | Artech | Remote | 2026-10-12 |
+| [Senior Full Sack & GenAI Developer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29443365#/jobs/29443365) | Mindlance | Remote, OH | 2026-10-12 |
+| [Compliance Data Analyst II (Health Plan/MCO experience)](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Compliance-Data-Analyst-II_R13863) | CareSource | Remote | 2026-10-12 |
+| [Sr. Specialist, Supplier Quality Engineer](https://careers.l3harris.com/en/job/united-states/sr-specialist-supplier-quality-engineer/4832/101876635584) | L3Harris | Remote | 2026-10-12 |
+| [Sr. Specialist, Supplier Quality Engineer](https://careers.l3harris.com/en/job/united-states/sr-specialist-supplier-quality-engineer/4832/101876635488) | L3Harris | Remote | 2026-10-12 |
 <!-- JOBS:END -->
 
 ## How it works
