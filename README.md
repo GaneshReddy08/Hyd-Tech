@@ -45,18 +45,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 238 tracked total · updated `2026-10-13T07:10:24+00:00`
+### 🆕 3 new roles this update · 239 tracked total · updated `2026-10-13T16:28:20+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
-| Diebold Nixdorf | 1 |
+| Artech | 1 |
+| Mindlance | 1 |
+| Synchrony | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-13 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-13 |
-| [Associate Service Desk Representative](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20054) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-10-13 |
+| [AI/Data Science Engineer II](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33234708#/jobs/33234708) | Artech | Virtual, IL | 2026-10-13 |
+| [Enrollment/Billing Representative](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29456768#/jobs/29456768) | Mindlance | Remote, IL | 2026-10-13 |
+| [Analyst, Analytics - Data Quality Developer](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/Analyst--Analytics---Data-Quality-Developer_2602582-1) | Synchrony | Hyderabad IN | 2026-10-13 |
 <!-- JOBS:END -->
 
 ## How it works
