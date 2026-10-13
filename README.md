@@ -45,19 +45,25 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 239 tracked total · updated `2026-10-13T16:28:20+00:00`
+### 🆕 7 new roles this update · 246 tracked total · updated `2026-10-13T21:48:49+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 1 |
+| Robert Half | 2 |
+| Artech | 2 |
 | Mindlance | 1 |
-| Synchrony | 1 |
+| Njoyn (CGI) | 1 |
+| CareSource | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [AI/Data Science Engineer II](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33234708#/jobs/33234708) | Artech | Virtual, IL | 2026-10-13 |
-| [Enrollment/Billing Representative](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29456768#/jobs/29456768) | Mindlance | Remote, IL | 2026-10-13 |
-| [Analyst, Analytics - Data Quality Developer](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/Analyst--Analytics---Data-Quality-Developer_2602582-1) | Synchrony | Hyderabad IN | 2026-10-13 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-13 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-13 |
+| [Software Engineering - Software Engineer III](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33238877#/jobs/33238877) | Artech | Remote Location, CA | 2026-10-13 |
+| [Software Developer - .Net](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33238159#/jobs/33238159) | Artech | Remote | 2026-10-13 |
+| [Information Technology - Software Engineer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29460824#/jobs/29460824) | Mindlance | Remote, FL | 2026-10-13 |
+| [Network Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-1130&BRID=1340873&lang=1) | Njoyn (CGI) | Remote, United States | 2026-10-13 |
+| [Configuration Systems Analyst III - CES](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Configuration-Systems-Analyst-III---CES_R14013) | CareSource | Remote | 2026-10-13 |
 <!-- JOBS:END -->
 
 ## How it works
