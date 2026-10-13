@@ -45,25 +45,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 8 new roles this update · 235 tracked total · updated `2026-10-12T23:28:21+00:00`
+### 🆕 3 new roles this update · 238 tracked total · updated `2026-10-13T07:10:24+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 4 |
-| L3Harris | 2 |
-| Mindlance | 1 |
-| CareSource | 1 |
+| Robert Half | 2 |
+| Diebold Nixdorf | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Jr. ServiceNow Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33234546#/jobs/33234546) | Artech | Remote | 2026-10-12 |
-| [Site Reliability Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33233882#/jobs/33233882) | Artech | Remote, FL | 2026-10-12 |
-| [Senior Infrastructure DevOps Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33233881#/jobs/33233881) | Artech | Remote | 2026-10-12 |
-| [Senior Cloud Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33233781#/jobs/33233781) | Artech | Remote | 2026-10-12 |
-| [Senior Full Sack & GenAI Developer](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29443365#/jobs/29443365) | Mindlance | Remote, OH | 2026-10-12 |
-| [Compliance Data Analyst II (Health Plan/MCO experience)](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Compliance-Data-Analyst-II_R13863) | CareSource | Remote | 2026-10-12 |
-| [Sr. Specialist, Supplier Quality Engineer](https://careers.l3harris.com/en/job/united-states/sr-specialist-supplier-quality-engineer/4832/101876635584) | L3Harris | Remote | 2026-10-12 |
-| [Sr. Specialist, Supplier Quality Engineer](https://careers.l3harris.com/en/job/united-states/sr-specialist-supplier-quality-engineer/4832/101876635488) | L3Harris | Remote | 2026-10-12 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-13 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-13 |
+| [Associate Service Desk Representative](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20054) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-10-13 |
 <!-- JOBS:END -->
 
 ## How it works
