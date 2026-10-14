@@ -45,23 +45,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 6 new roles this update · 252 tracked total · updated `2026-10-14T08:02:37+00:00`
+### 🆕 1 new roles this update · 251 tracked total · updated `2026-10-14T14:12:00+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
-| Artech | 2 |
-| Njoyn (CGI) | 1 |
-| Battelle | 1 |
+| Artech | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-14 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-14 |
-| [Slack Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33238202#/jobs/33238202) | Artech | Remote | 2026-10-14 |
-| [Kinaxis Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33238595#/jobs/33238595) | Artech | Remote | 2026-10-14 |
-| [AI Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-0013&BRID=1340975&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-14 |
-| [Bioinformatics Program Manager](https://jobs.battelle.org/us/en/job/76627) | Battelle | Remote, OH | 2026-10-14 |
+| [STUDIO OPERATOR - TECHNICAL SUPPORT ENGINEER](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33244295#/jobs/33244295) | Artech | Remote, NY | 2026-10-14 |
 <!-- JOBS:END -->
 
 ## How it works
