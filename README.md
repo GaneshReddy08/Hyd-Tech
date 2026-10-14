@@ -45,16 +45,23 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 246 tracked total · updated `2026-10-14T01:43:35+00:00`
+### 🆕 6 new roles this update · 252 tracked total · updated `2026-10-14T08:02:37+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Njoyn (CGI) | 2 |
+| Robert Half | 2 |
+| Artech | 2 |
+| Njoyn (CGI) | 1 |
+| Battelle | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior Test Data Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-0992&BRID=1340925&lang=1) | Njoyn (CGI) | Remote, United States | 2026-10-14 |
-| [Senior Data Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-1006&BRID=1340923&lang=1) | Njoyn (CGI) | Remote, United States | 2026-10-14 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-14 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-14 |
+| [Slack Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33238202#/jobs/33238202) | Artech | Remote | 2026-10-14 |
+| [Kinaxis Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33238595#/jobs/33238595) | Artech | Remote | 2026-10-14 |
+| [AI Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-0013&BRID=1340975&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-14 |
+| [Bioinformatics Program Manager](https://jobs.battelle.org/us/en/job/76627) | Battelle | Remote, OH | 2026-10-14 |
 <!-- JOBS:END -->
 
 ## How it works
