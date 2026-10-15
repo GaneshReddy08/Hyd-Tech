@@ -45,17 +45,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 260 tracked total · updated `2026-10-14T23:43:32+00:00`
+### 🆕 3 new roles this update · 262 tracked total · updated `2026-10-15T04:55:10+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Pinnacle Group | 1 |
-| KeyBank | 1 |
+| Robert Half | 2 |
+| Ultimate Marketing | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [GRC Manager - Technology Risk & Governance](https://pinnaclegroup.wd1.myworkdayjobs.com/PinnacleGroup/job/Remote-US/GRC-Manager---Technology-Risk---Governance_JR1263) | Pinnacle Group | Remote US | 2026-10-14 |
-| [Sr. Full Stack Engineer](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Remote-United-States/Sr-Full-Stack-Engineer_R-42449) | KeyBank | Remote, United States | 2026-10-14 |
+| [Customer Support Specialist](https://remoteOK.com/remote-jobs/remote-customer-support-specialist-ultimate-marketing-1137512) | Ultimate Marketing | Remote (Worldwide) | 2026-10-15 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-15 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-15 |
 <!-- JOBS:END -->
 
 ## How it works
