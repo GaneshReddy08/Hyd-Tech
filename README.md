@@ -45,15 +45,22 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 261 tracked total · updated `2026-10-15T11:50:25+00:00`
+### 🆕 5 new roles this update · 266 tracked total · updated `2026-10-15T17:22:26+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Honeywell | 1 |
+| Robert Half | 2 |
+| Artech | 1 |
+| Mindlance | 1 |
+| Diebold Nixdorf | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Intern Bachelors AI Eng](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159836) | Honeywell | Hyderabad, Telangana, India | 2026-10-15 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-15 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-15 |
+| [AWS PySpark Databricks Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33249512#/jobs/33249512) | Artech | Remote | 2026-10-15 |
+| [Data Analytics & Engineering - Data Scientist V](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29461971#/jobs/29461971) | Mindlance | Remote, CA | 2026-10-15 |
+| [Senior Service Desk Representative](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20468) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-10-15 |
 <!-- JOBS:END -->
 
 ## How it works
