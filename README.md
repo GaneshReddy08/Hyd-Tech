@@ -45,18 +45,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 262 tracked total · updated `2026-10-15T04:55:10+00:00`
+### 🆕 1 new roles this update · 261 tracked total · updated `2026-10-15T11:50:25+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
-| Ultimate Marketing | 1 |
+| Honeywell | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Customer Support Specialist](https://remoteOK.com/remote-jobs/remote-customer-support-specialist-ultimate-marketing-1137512) | Ultimate Marketing | Remote (Worldwide) | 2026-10-15 |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-15 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-15 |
+| [Intern Bachelors AI Eng](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159836) | Honeywell | Hyderabad, Telangana, India | 2026-10-15 |
 <!-- JOBS:END -->
 
 ## How it works
