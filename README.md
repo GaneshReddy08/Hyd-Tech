@@ -45,22 +45,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 266 tracked total · updated `2026-10-15T17:22:26+00:00`
+### 🆕 3 new roles this update · 267 tracked total · updated `2026-10-15T21:46:01+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
-| Artech | 1 |
+| Artech | 2 |
 | Mindlance | 1 |
-| Diebold Nixdorf | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-15 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-15 |
-| [AWS PySpark Databricks Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33249512#/jobs/33249512) | Artech | Remote | 2026-10-15 |
-| [Data Analytics & Engineering - Data Scientist V](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29461971#/jobs/29461971) | Mindlance | Remote, CA | 2026-10-15 |
-| [Senior Service Desk Representative](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20468) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-10-15 |
+| [ServiceNow Service Portal Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33252473#/jobs/33252473) | Artech | Remote | 2026-10-15 |
+| [Business Systems Analyst – API Integrations](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33252304#/jobs/33252304) | Artech | Remote | 2026-10-15 |
+| [ProfessionalServices - Provider Data Management Analyst II - 111457](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29473527#/jobs/29473527) | Mindlance | Remote, GA | 2026-10-15 |
 <!-- JOBS:END -->
 
 ## How it works
