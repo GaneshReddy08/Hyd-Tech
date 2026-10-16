@@ -45,20 +45,23 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 274 tracked total · updated `2026-10-16T13:45:27+00:00`
+### 🆕 6 new roles this update · 278 tracked total · updated `2026-10-16T18:31:54+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
-| Njoyn (CGI) | 1 |
-| Diebold Nixdorf | 1 |
+| Gina's Tech Jobs | 2 |
+| Next Step Systems | 2 |
+| Wrapbook | 1 |
+| Cleveland Clinic | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-16 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-16 |
-| [Frontend React Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-0802&BRID=1341557&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-16 |
-| [Service Desk Representative](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20144) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-10-16 |
+| [Senior Software Engineer II Applied AI](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527) | Wrapbook | Remote (Worldwide) | 2026-10-16 |
+| [Machine Learning (ML) Engineer, Ranking & Retrieval, Machine Learning (ML) and Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/machine-learning-ml-engineer-ranking-retrieval-machine-learning-ml-and-artificial-intelligence-ai-required-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-10-16 |
+| [Applied Machine Learning (ML) Engineer, Machine Learning (ML) and Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/applied-machine-learning-ml-engineer-machine-learning-ml-and-artificial-intelligence-ai-required-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-10-16 |
+| [Machine Learning (ML) Engineer, Ranking & Retrieval, Machine Learning (ML) and Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/machine-learning-ml-engineer-ranking-retrieval-machine-learning-ml-and-artificial-intelligence-ai-required-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-10-16 |
+| [Applied Machine Learning (ML) Engineer, Machine Learning (ML) and Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/applied-machine-learning-ml-engineer-machine-learning-ml-and-artificial-intelligence-ai-required-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-10-16 |
+| [AI Product Manager](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/AI-Product-Manager_355250) | Cleveland Clinic | Remote Location | 2026-10-16 |
 <!-- JOBS:END -->
 
 ## How it works
