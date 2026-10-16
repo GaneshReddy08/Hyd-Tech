@@ -45,18 +45,20 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 270 tracked total · updated `2026-10-16T07:37:29+00:00`
+### 🆕 4 new roles this update · 274 tracked total · updated `2026-10-16T13:45:27+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Njoyn (CGI) | 2 |
-| Vertiv | 1 |
+| Robert Half | 2 |
+| Njoyn (CGI) | 1 |
+| Diebold Nixdorf | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Full-Stack Developer or a Python/JavaScript Full-Stack Developer,](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-1060&BRID=1341474&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-16 |
-| [IBM BPM Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-0488&BRID=1341469&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-16 |
-| [Application Development & Support Analyst - AI](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20276512) | Vertiv | Hyderabad, India | 2026-10-16 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-16 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-16 |
+| [Frontend React Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-0802&BRID=1341557&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-16 |
+| [Service Desk Representative](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20144) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-10-16 |
 <!-- JOBS:END -->
 
 ## How it works
