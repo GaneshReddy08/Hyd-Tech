@@ -45,16 +45,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 269 tracked total · updated `2026-10-16T00:56:20+00:00`
+### 🆕 3 new roles this update · 270 tracked total · updated `2026-10-16T07:37:29+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Robert Half | 2 |
+| Njoyn (CGI) | 2 |
+| Vertiv | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-16 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-16 |
+| [Full-Stack Developer or a Python/JavaScript Full-Stack Developer,](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-1060&BRID=1341474&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-16 |
+| [IBM BPM Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-0488&BRID=1341469&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-16 |
+| [Application Development & Support Analyst - AI](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20276512) | Vertiv | Hyderabad, India | 2026-10-16 |
 <!-- JOBS:END -->
 
 ## How it works
