@@ -45,23 +45,20 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 6 new roles this update · 278 tracked total · updated `2026-10-16T18:31:54+00:00`
+### 🆕 4 new roles this update · 282 tracked total · updated `2026-10-16T21:27:09+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Gina's Tech Jobs | 2 |
-| Next Step Systems | 2 |
-| Wrapbook | 1 |
-| Cleveland Clinic | 1 |
+| Robert Half | 2 |
+| Artech | 1 |
+| Mindlance | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior Software Engineer II Applied AI](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527) | Wrapbook | Remote (Worldwide) | 2026-10-16 |
-| [Machine Learning (ML) Engineer, Ranking & Retrieval, Machine Learning (ML) and Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/machine-learning-ml-engineer-ranking-retrieval-machine-learning-ml-and-artificial-intelligence-ai-required-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-10-16 |
-| [Applied Machine Learning (ML) Engineer, Machine Learning (ML) and Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/applied-machine-learning-ml-engineer-machine-learning-ml-and-artificial-intelligence-ai-required-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-10-16 |
-| [Machine Learning (ML) Engineer, Ranking & Retrieval, Machine Learning (ML) and Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/machine-learning-ml-engineer-ranking-retrieval-machine-learning-ml-and-artificial-intelligence-ai-required-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-10-16 |
-| [Applied Machine Learning (ML) Engineer, Machine Learning (ML) and Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/applied-machine-learning-ml-engineer-machine-learning-ml-and-artificial-intelligence-ai-required-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-10-16 |
-| [AI Product Manager](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/AI-Product-Manager_355250) | Cleveland Clinic | Remote Location | 2026-10-16 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-16 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-16 |
+| [Information Technology - ITDR Function Lead, IT Resilience (Information Technology Disaster Recovery Lead)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33258479#/jobs/33258479) | Artech | Remote, TX | 2026-10-16 |
+| [Data Analytics & Engineering - Data Engineer III](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29473320#/jobs/29473320) | Mindlance | Remote, CA | 2026-10-16 |
 <!-- JOBS:END -->
 
 ## How it works
