@@ -45,9 +45,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **280** roles open total · updated `2026-10-17T12:29:50+00:00`
+### 🆕 3 new roles this update · 283 tracked total · updated `2026-10-17T15:58:47+00:00`
 
-Nothing new since the last run — [browse all 280 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| Robert Half | 2 |
+| Njoyn (CGI) | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-17 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-17 |
+| [Mainframe Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-0945&BRID=1341764&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-17 |
 <!-- JOBS:END -->
 
 ## How it works
