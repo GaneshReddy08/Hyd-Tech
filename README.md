@@ -45,20 +45,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 282 tracked total · updated `2026-10-16T21:27:09+00:00`
+### 🟢 No new roles this update · **280** roles open total · updated `2026-10-17T00:51:42+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Robert Half | 2 |
-| Artech | 1 |
-| Mindlance | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-16 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-16 |
-| [Information Technology - ITDR Function Lead, IT Resilience (Information Technology Disaster Recovery Lead)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33258479#/jobs/33258479) | Artech | Remote, TX | 2026-10-16 |
-| [Data Analytics & Engineering - Data Engineer III](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29473320#/jobs/29473320) | Mindlance | Remote, CA | 2026-10-16 |
+Nothing new since the last run — [browse all 280 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
