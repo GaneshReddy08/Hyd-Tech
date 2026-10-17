@@ -45,17 +45,16 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 283 tracked total · updated `2026-10-17T18:55:17+00:00`
+### 🆕 2 new roles this update · 285 tracked total · updated `2026-10-17T22:42:32+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Self Bill Pro | 1 |
-| Yopeso Romania SRL | 1 |
+| Robert Half | 2 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Director of Product Management and IT Operations](https://remoteOK.com/remote-jobs/remote-director-of-product-management-and-it-operations-self-bill-pro-1137536) | Self Bill Pro | Remote (Worldwide) | 2026-10-17 |
-| [SAP RE FX Consultant](https://remoteOK.com/remote-jobs/remote-sap-re-fx-consultant-yopeso-romania-srl-1137535) | Yopeso Romania SRL | Remote (Worldwide) | 2026-10-17 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-17 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-17 |
 <!-- JOBS:END -->
 
 ## How it works
