@@ -45,18 +45,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 286 tracked total · updated `2026-10-18T04:49:09+00:00`
+### 🟢 No new roles this update · **284** roles open total · updated `2026-10-18T11:25:59+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Robert Half | 2 |
-| Askable | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Software Engineer AI Coding Tasks](https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538) | Askable | Remote (Worldwide) | 2026-10-18 |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-18 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-18 |
+Nothing new since the last run — [browse all 284 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
