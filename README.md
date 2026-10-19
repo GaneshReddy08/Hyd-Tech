@@ -45,25 +45,21 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 9 new roles this update · 293 tracked total · updated `2026-10-19T13:29:45+00:00`
+### 🆕 4 new roles this update · 295 tracked total · updated `2026-10-19T20:20:39+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Njoyn (CGI) | 6 |
-| Robert Half | 2 |
+| Sothebyâs | 1 |
+| Rain | 1 |
+| Njoyn (CGI) | 1 |
 | Synchrony | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-19 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-19 |
-| [Control-M Data Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2285&BRID=1341869&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-19 |
-| [Control-M Data Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-0052&BRID=1341852&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-19 |
-| [Python, AWS Services, Pyspark Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-1181&BRID=1341834&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-19 |
-| [Python, AWS Services, Pyspark Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-1382&BRID=1341814&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-19 |
-| [Sr Mainframe Developer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-0323&BRID=1341792&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-19 |
-| [Lead Analyst - Java Full stack with Gen AI](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-0073&BRID=1312922&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-19 |
-| [AVP - Enterprise Client Computing Product Owner (L11)](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/AVP---Enterprise-Client-Computing-Product-Owner--L11-_2602878) | Synchrony | Hyderabad IN | 2026-10-19 |
+| [Senior Software Engineer](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545) | Sothebyâs | Remote (Worldwide) | 2026-10-19 |
+| [Senior Backend Engineer](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544) | Rain | Remote (Worldwide) | 2026-10-19 |
+| [Sr. Alvaria Dialer Technical System Administrator](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-1759&BRID=1341959&lang=1) | Njoyn (CGI) | Remote, United States | 2026-10-19 |
+| [AVP, Principal Software Engineer (L11)](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/AVP--Principal-Software-Engineer--L11-_2601288-1) | Synchrony | Hyderabad IN | 2026-10-19 |
 <!-- JOBS:END -->
 
 ## How it works
