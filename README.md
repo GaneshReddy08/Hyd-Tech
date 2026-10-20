@@ -45,21 +45,22 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 295 tracked total · updated `2026-10-19T20:20:39+00:00`
+### 🆕 6 new roles this update · 300 tracked total · updated `2026-10-20T00:01:37+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Sothebyâs | 1 |
-| Rain | 1 |
-| Njoyn (CGI) | 1 |
-| Synchrony | 1 |
+| Root Insurance | 3 |
+| Robert Half | 2 |
+| Levi Strauss | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior Software Engineer](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545) | Sothebyâs | Remote (Worldwide) | 2026-10-19 |
-| [Senior Backend Engineer](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544) | Rain | Remote (Worldwide) | 2026-10-19 |
-| [Sr. Alvaria Dialer Technical System Administrator](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-1759&BRID=1341959&lang=1) | Njoyn (CGI) | Remote, United States | 2026-10-19 |
-| [AVP, Principal Software Engineer (L11)](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/AVP--Principal-Software-Engineer--L11-_2601288-1) | Synchrony | Hyderabad IN | 2026-10-19 |
+| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-20 |
+| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-20 |
+| [Senior Software Engineer, Automotive Partnerships](https://ats.rippling.com/joinroot/jobs/08ae6d8a-f80d-49ad-8af8-c13931a319f6) | Root Insurance | Remote (United States) | 2026-10-20 |
+| [Senior Software Engineer, Payments & Billing](https://ats.rippling.com/joinroot/jobs/2d830f55-f417-4917-9fbf-6ff14b9258f9) | Root Insurance | Remote (United States) | 2026-10-20 |
+| [Staff Software Engineer II](https://ats.rippling.com/joinroot/jobs/9317315a-b947-4016-971b-c6498c4f4b7c) | Root Insurance | Remote (United States) | 2026-10-20 |
+| [Manager, ERP Engineering (BTPAI)](https://levistraussandco.wd5.myworkdayjobs.com/External/job/Remote---USA/Manager--ERP-Engineering--BTPAI-_R-0158511-1) | Levi Strauss | Remote - USA | 2026-10-20 |
 <!-- JOBS:END -->
 
 ## How it works
