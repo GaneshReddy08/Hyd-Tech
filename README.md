@@ -45,22 +45,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 6 new roles this update · 300 tracked total · updated `2026-10-20T00:01:37+00:00`
+### 🟢 No new roles this update · **298** roles open total · updated `2026-10-20T05:06:19+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Root Insurance | 3 |
-| Robert Half | 2 |
-| Levi Strauss | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Erpcrm Configuration Sme](https://www.roberthalf.com/us/en/job/remote-oh/erpcrm-configuration-sme/02940-0013508412-usen) | Robert Half | Remote, 02940 | 2026-10-20 |
-| [Data Engineer](https://www.roberthalf.com/us/en/job/remote-oh/data-engineer/02940-0013508410-usen) | Robert Half | Remote, 02940 | 2026-10-20 |
-| [Senior Software Engineer, Automotive Partnerships](https://ats.rippling.com/joinroot/jobs/08ae6d8a-f80d-49ad-8af8-c13931a319f6) | Root Insurance | Remote (United States) | 2026-10-20 |
-| [Senior Software Engineer, Payments & Billing](https://ats.rippling.com/joinroot/jobs/2d830f55-f417-4917-9fbf-6ff14b9258f9) | Root Insurance | Remote (United States) | 2026-10-20 |
-| [Staff Software Engineer II](https://ats.rippling.com/joinroot/jobs/9317315a-b947-4016-971b-c6498c4f4b7c) | Root Insurance | Remote (United States) | 2026-10-20 |
-| [Manager, ERP Engineering (BTPAI)](https://levistraussandco.wd5.myworkdayjobs.com/External/job/Remote---USA/Manager--ERP-Engineering--BTPAI-_R-0158511-1) | Levi Strauss | Remote - USA | 2026-10-20 |
+Nothing new since the last run — [browse all 298 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
