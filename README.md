@@ -45,24 +45,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 8 new roles this update · 306 tracked total · updated `2026-10-20T17:32:18+00:00`
+### 🟢 No new roles this update · **306** roles open total · updated `2026-10-20T22:03:55+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Artech | 6 |
-| Cleveland Clinic | 1 |
-| Levi Strauss | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Parloa QA Automation lead](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33272295#/jobs/33272295) | Artech | Remote | 2026-10-20 |
-| [Information Technology - Application Development - SAP EPM & Analytics Solution Architect](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33271041#/jobs/33271041) | Artech | Remote, IL | 2026-10-20 |
-| [SAP S4HANA Finance Release Engineer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33271682#/jobs/33271682) | Artech | Remote | 2026-10-20 |
-| [Information Technology - Application Development - ERP Developer - SAP (S/4HANA Public Cloud Implementation)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33268926#/jobs/33268926) | Artech | Remote, NV | 2026-10-20 |
-| [Business/System Analyst II](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33267677#/jobs/33267677) | Artech | Remote, TX | 2026-10-20 |
-| [Cybersecurity – Netwrix Auditor / Stealthbits](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33271250#/jobs/33271250) | Artech | Remote | 2026-10-20 |
-| [Senior Data Scientist / Data Scientist III](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Senior-Data-Scientist---Data-Scientist-III_358764) | Cleveland Clinic | Remote Location | 2026-10-20 |
-| [Manager, ERP Engineering (EDI)](https://levistraussandco.wd5.myworkdayjobs.com/External/job/Remote---USA/Manager--ERP-Engineering--EDI-_R-0158509-1) | Levi Strauss | Remote - USA | 2026-10-20 |
+Nothing new since the last run — [browse all 306 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
