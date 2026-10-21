@@ -45,9 +45,16 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **306** roles open total · updated `2026-10-21T00:54:51+00:00`
+### 🆕 2 new roles this update · 308 tracked total · updated `2026-10-21T08:00:15+00:00`
 
-Nothing new since the last run — [browse all 306 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| Njoyn (CGI) | 2 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [AWS Data Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-1091&BRID=1342534&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-21 |
+| [Senior AS400 Developer with 3-5 years of exp in COBOL CL, SQL, ALDON, File Management](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-0488&BRID=1336401&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-21 |
 <!-- JOBS:END -->
 
 ## How it works
