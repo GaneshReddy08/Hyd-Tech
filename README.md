@@ -45,16 +45,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 308 tracked total · updated `2026-10-21T08:00:15+00:00`
+### 🆕 1 new roles this update · 309 tracked total · updated `2026-10-21T14:14:43+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Njoyn (CGI) | 2 |
+| Njoyn (CGI) | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [AWS Data Engineer](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-1091&BRID=1342534&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-21 |
-| [Senior AS400 Developer with 3-5 years of exp in COBOL CL, SQL, ALDON, File Management](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-0488&BRID=1336401&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-21 |
+| [SAP S4 HANA Technical Consultant (Finance & Controlling)](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-0442&BRID=1319253&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-21 |
 <!-- JOBS:END -->
 
 ## How it works
