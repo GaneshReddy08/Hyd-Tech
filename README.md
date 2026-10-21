@@ -45,15 +45,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 309 tracked total · updated `2026-10-21T14:14:43+00:00`
+### 🆕 2 new roles this update · 311 tracked total · updated `2026-10-21T19:00:38+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Mindlance | 1 |
 | Njoyn (CGI) | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [SAP S4 HANA Technical Consultant (Finance & Controlling)](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-0442&BRID=1319253&lang=1) | Njoyn (CGI) | Hyderabad, India | 2026-10-21 |
+| [BusinessOperations - Provider Data Management Analyst 1 - 111458](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29499114#/jobs/29499114) | Mindlance | Remote, FL | 2026-10-21 |
+| [Senior System Analyst](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-1472&BRID=1342580&lang=1) | Njoyn (CGI) | Remote, United States | 2026-10-21 |
 <!-- JOBS:END -->
 
 ## How it works
