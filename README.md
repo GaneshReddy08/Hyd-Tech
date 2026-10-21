@@ -45,17 +45,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 311 tracked total · updated `2026-10-21T19:00:38+00:00`
+### 🟢 No new roles this update · **311** roles open total · updated `2026-10-21T23:38:56+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Mindlance | 1 |
-| Njoyn (CGI) | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [BusinessOperations - Provider Data Management Analyst 1 - 111458](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29499114#/jobs/29499114) | Mindlance | Remote, FL | 2026-10-21 |
-| [Senior System Analyst](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1026-1472&BRID=1342580&lang=1) | Njoyn (CGI) | Remote, United States | 2026-10-21 |
+Nothing new since the last run — [browse all 311 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
