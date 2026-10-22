@@ -45,15 +45,22 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 311 tracked total · updated `2026-10-22T12:16:33+00:00`
+### 🆕 5 new roles this update · 316 tracked total · updated `2026-10-22T17:37:51+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Vertiv | 1 |
+| CareSource | 2 |
+| DuckDuckGo | 1 |
+| Mindlance | 1 |
+| Dayton Children's Hospital | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [ERP Second Level Support (RUN) – Analyst (Manufacturing & SCM)](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20284194) | Vertiv | Hyderabad, India | 2026-10-22 |
+| [Senior Backend Engineer](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-duckduckgo-1137551) | DuckDuckGo | Remote (Worldwide) | 2026-10-22 |
+| [ProfessionalServices - Provider Data Management Analyst II - 111457](https://www2.jobdiva.com/portal/?a=7fjdnw91pq69jlvngz1gp518iugamw00c66623tmx447r7e3lkr3gqqpqjhpy8mo&compid=0&jobid=29504593#/jobs/29504593) | Mindlance | Remote, GA | 2026-10-22 |
+| [Business Analyst IV - Facets/Claim IT experience](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Business-Analyst-IV_R13708) | CareSource | Remote | 2026-10-22 |
+| [Senior Financial Data Analyst - Reconciliation & Controls](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Senior-Financial-Data-Analyst---Reconciliation---Controls_R14067) | CareSource | Remote | 2026-10-22 |
+| [Manager, Workday HCM](https://daytonchildrens.wd1.myworkdayjobs.com/dayton_childrens_career_site/job/Work-from-Home---Hybrid---Ohio/Manager--Workday-HCM_R24653) | Dayton Children's Hospital | Work from Home - Hybrid - Ohio | 2026-10-22 |
 <!-- JOBS:END -->
 
 ## How it works
