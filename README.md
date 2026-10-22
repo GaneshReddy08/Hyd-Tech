@@ -45,9 +45,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **310** roles open total · updated `2026-10-22T05:00:00+00:00`
+### 🆕 1 new roles this update · 311 tracked total · updated `2026-10-22T12:16:33+00:00`
 
-Nothing new since the last run — [browse all 310 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| Vertiv | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [ERP Second Level Support (RUN) – Analyst (Manufacturing & SCM)](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20284194) | Vertiv | Hyderabad, India | 2026-10-22 |
 <!-- JOBS:END -->
 
 ## How it works
