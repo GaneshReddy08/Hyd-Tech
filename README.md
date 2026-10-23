@@ -45,23 +45,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 329 tracked total · updated `2026-10-23T18:47:12+00:00`
+### 🆕 3 new roles this update · 332 tracked total · updated `2026-10-23T23:32:30+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Apex Systems | 1 |
-| Russell Tobin | 1 |
-| Artech | 1 |
-| Synchrony | 1 |
-| Cincinnati Insurance | 1 |
+| Artech | 3 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Systems Analyst II](https://www.apexsystems.com/job/3057038_usa/systems-analyst-ii) | Apex Systems | Remote, OR | 2026-10-23 |
-| [AI Safety & Safeguards Enforcement Specialist (CBRNE)](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29514860#/jobs/29514860) | Russell Tobin | Remote, CA | 2026-10-23 |
-| [Information Technology - Application Development - Lead Engineer II, IBS (Deltek Functional)](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33290023#/jobs/33290023) | Artech | Remote, NJ | 2026-10-23 |
-| [AVP - Cloud Database Automation Engineer](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/AVP---Cloud-Database-Automation-Engineer_2602366) | Synchrony | Hyderabad IN | 2026-10-23 |
-| [IT - Developer I - V (Remote)](https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=169768) | Cincinnati Insurance | ["Remote"] | 2026-10-23 |
+| [SAP GTS Functional Consultant](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33291875#/jobs/33291875) | Artech | Remote | 2026-10-23 |
+| [Scrum Master](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33291538#/jobs/33291538) | Artech | Remote | 2026-10-23 |
+| [Senior SQL Server DBA](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33290625#/jobs/33290625) | Artech | Remote | 2026-10-23 |
 <!-- JOBS:END -->
 
 ## How it works
