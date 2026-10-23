@@ -45,9 +45,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **322** roles open total · updated `2026-10-23T08:05:23+00:00`
+### 🆕 2 new roles this update · 324 tracked total · updated `2026-10-23T14:08:59+00:00`
 
-Nothing new since the last run — [browse all 322 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| Lemon.io | 1 |
+| Diebold Nixdorf | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Senior DevOps Engineer](https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557) | Lemon.io | Remote (Worldwide) | 2026-10-23 |
+| [Senior Business Intelligence Analyst](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19682) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-10-23 |
 <!-- JOBS:END -->
 
 ## How it works
