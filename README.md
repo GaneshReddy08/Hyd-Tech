@@ -45,21 +45,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 321 tracked total · updated `2026-10-22T21:59:46+00:00`
+### 🆕 1 new roles this update · 322 tracked total · updated `2026-10-23T01:12:22+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Artech | 3 |
-| Russell Tobin | 1 |
-| Motion Recruitment | 1 |
+| Artech | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [ERP Consultant](https://www2.jobdiva.com/portal/?a=nyjdnw8rs3eurnjvdink7d2fl4mnyy0b22tjlzi328snknlo1pzpk0ue533mvm7r&compid=2&jobid=29510589#/jobs/29510589) | Russell Tobin | Remote, TX | 2026-10-22 |
-| [IT Consultant I](https://motionrecruitment.com/tech-jobs/remote/contract/it-consultant-i/891548) | Motion Recruitment | Remote, rmt | 2026-10-22 |
-| [High Availability Mainframe Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33286544#/jobs/33286544) | Artech | Remote, NY | 2026-10-22 |
-| [Mainframe Systems Analyst / Interface & Documentation Specialist](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33286656#/jobs/33286656) | Artech | Remote, NY | 2026-10-22 |
-| [Senior Oracle DBA](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33284827#/jobs/33284827) | Artech | Remote | 2026-10-22 |
+| [Information Technology - ERP Consultant - Oracle](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33286902#/jobs/33286902) | Artech | Remote, TX | 2026-10-23 |
 <!-- JOBS:END -->
 
 ## How it works
