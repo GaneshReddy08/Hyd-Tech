@@ -45,9 +45,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **334** roles open total · updated `2026-10-24T16:20:03+00:00`
+### 🆕 1 new roles this update · 335 tracked total · updated `2026-10-24T19:13:20+00:00`
 
-Nothing new since the last run — [browse all 334 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| B2spin | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Senior Frontend Engineer](https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-b2spin-1137562) | B2spin | Remote (Worldwide) | 2026-10-24 |
 <!-- JOBS:END -->
 
 ## How it works
