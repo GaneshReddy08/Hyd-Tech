@@ -45,17 +45,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 332 tracked total · updated `2026-10-23T23:32:30+00:00`
+### 🟢 No new roles this update · **332** roles open total · updated `2026-10-24T04:54:40+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Artech | 3 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [SAP GTS Functional Consultant](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33291875#/jobs/33291875) | Artech | Remote | 2026-10-23 |
-| [Scrum Master](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33291538#/jobs/33291538) | Artech | Remote | 2026-10-23 |
-| [Senior SQL Server DBA](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33290625#/jobs/33290625) | Artech | Remote | 2026-10-23 |
+Nothing new since the last run — [browse all 332 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
