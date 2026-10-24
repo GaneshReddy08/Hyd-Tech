@@ -45,16 +45,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 334 tracked total · updated `2026-10-24T11:19:22+00:00`
+### 🟢 No new roles this update · **334** roles open total · updated `2026-10-24T16:20:03+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Diebold Nixdorf | 2 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Associate Service Desk Representative](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20550) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-10-24 |
-| [Service Desk Representative](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20549) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-10-24 |
+Nothing new since the last run — [browse all 334 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
