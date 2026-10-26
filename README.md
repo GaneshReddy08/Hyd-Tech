@@ -45,9 +45,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **335** roles open total · updated `2026-10-26T05:00:54+00:00`
+### 🆕 1 new roles this update · 336 tracked total · updated `2026-10-26T13:24:43+00:00`
 
-Nothing new since the last run — [browse all 335 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| Klardaten | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Senior Software Engineer](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-klardaten-1137571) | Klardaten | Remote (Worldwide) | 2026-10-26 |
 <!-- JOBS:END -->
 
 ## How it works
