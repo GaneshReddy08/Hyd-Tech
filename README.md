@@ -45,15 +45,22 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 336 tracked total · updated `2026-10-26T13:24:43+00:00`
+### 🆕 6 new roles this update · 342 tracked total · updated `2026-10-26T20:25:34+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Klardaten | 1 |
+| Artech | 4 |
+| Branch Insurance | 1 |
+| Fifth Third Bank | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior Software Engineer](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-klardaten-1137571) | Klardaten | Remote (Worldwide) | 2026-10-26 |
+| [Senior Java Full Stack Developer](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33296584#/jobs/33296584) | Artech | Remote | 2026-10-26 |
+| [Senior Technology Catalog / ServiceNow Consultant](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33294788#/jobs/33294788) | Artech | Remote, NY | 2026-10-26 |
+| [Senior Technology Catalog / ServiceNow Consultant](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33294780#/jobs/33294780) | Artech | Remote, NY | 2026-10-26 |
+| [Senior Technology Catalog / ServiceNow Consultant](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33294772#/jobs/33294772) | Artech | Remote, NY | 2026-10-26 |
+| [Data Engineer](https://job-boards.greenhouse.io/branch/jobs/8044391003) | Branch Insurance | Remote, US | 2026-10-26 |
+| [Senior Treasury Solutions Consultant - Cash](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/Senior-Treasury-Solutions-Consultant---Cash_R74368) | Fifth Third Bank | Virtual | 2026-10-26 |
 <!-- JOBS:END -->
 
 ## How it works
