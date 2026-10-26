@@ -45,15 +45,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 335 tracked total · updated `2026-10-25T22:58:52+00:00`
+### 🟢 No new roles this update · **335** roles open total · updated `2026-10-26T05:00:54+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| L3Harris | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Sr. Specialist, Supplier Quality Engineer 1](https://careers.l3harris.com/en/job/united-states/sr-specialist-supplier-quality-engineer-1/4832/102434288880) | L3Harris | Remote | 2026-10-25 |
+Nothing new since the last run — [browse all 335 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
