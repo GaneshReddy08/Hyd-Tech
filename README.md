@@ -45,19 +45,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 347 tracked total · updated `2026-10-27T18:33:58+00:00`
+### 🆕 1 new roles this update · 348 tracked total · updated `2026-10-27T22:35:30+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| CareSource | 1 |
-| Diebold Nixdorf | 1 |
-| GE Aerospace | 1 |
+| Stanton House | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Information Security GRC Analyst IV - ESH](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Information-Security-GRC-Analyst-IV---ESH_R14143) | CareSource | Remote | 2026-10-27 |
-| [Supervisor Service Desk](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20552) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-10-27 |
-| [Lead Supplier Quality Engineer](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Lead-Supplier-Quality-Engineer_R5041616-2) | GE Aerospace | Remote | 2026-10-27 |
+| [Senior Physical Security Engineer](https://www.stantonhouse.com/us/jobs/33154-Senior-Physical-Security-Engineer) | Stanton House | Remote or Hybrid in New York City, Denver, or Charlotte | 2026-10-27 |
 <!-- JOBS:END -->
 
 ## How it works
