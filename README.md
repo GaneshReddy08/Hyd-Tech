@@ -45,15 +45,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 342 tracked total · updated `2026-10-27T00:21:39+00:00`
+### 🟢 No new roles this update · **342** roles open total · updated `2026-10-27T05:22:35+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Artech | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Master Data Management (MDM) Business Analyst](https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s&compid=0&jobid=33298548#/jobs/33298548) | Artech | Remote | 2026-10-27 |
+Nothing new since the last run — [browse all 342 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
