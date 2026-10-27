@@ -45,17 +45,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 344 tracked total · updated `2026-10-27T12:33:37+00:00`
+### 🆕 3 new roles this update · 347 tracked total · updated `2026-10-27T18:33:58+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Wagmo | 1 |
-| Synchrony | 1 |
+| CareSource | 1 |
+| Diebold Nixdorf | 1 |
+| GE Aerospace | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior Software Engineer LATAM](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572) | Wagmo | Remote (Worldwide) | 2026-10-27 |
-| [AVP, Mobile Engineer III - AI native (L10)](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/AVP--Mobile-Engineer-III---AI-native--L10-_2602362-1) | Synchrony | Hyderabad IN | 2026-10-27 |
+| [Information Security GRC Analyst IV - ESH](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Information-Security-GRC-Analyst-IV---ESH_R14143) | CareSource | Remote | 2026-10-27 |
+| [Supervisor Service Desk](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20552) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-10-27 |
+| [Lead Supplier Quality Engineer](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Lead-Supplier-Quality-Engineer_R5041616-2) | GE Aerospace | Remote | 2026-10-27 |
 <!-- JOBS:END -->
 
 ## How it works
