@@ -45,9 +45,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **342** roles open total · updated `2026-10-27T05:22:35+00:00`
+### 🆕 2 new roles this update · 344 tracked total · updated `2026-10-27T12:33:37+00:00`
 
-Nothing new since the last run — [browse all 342 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| Wagmo | 1 |
+| Synchrony | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Senior Software Engineer LATAM](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572) | Wagmo | Remote (Worldwide) | 2026-10-27 |
+| [AVP, Mobile Engineer III - AI native (L10)](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/AVP--Mobile-Engineer-III---AI-native--L10-_2602362-1) | Synchrony | Hyderabad IN | 2026-10-27 |
 <!-- JOBS:END -->
 
 ## How it works
