@@ -45,15 +45,20 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 350 tracked total · updated `2026-10-28T17:02:21+00:00`
+### 🆕 5 new roles this update · 355 tracked total · updated `2026-10-28T23:00:00+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Hyland Software | 1 |
+| Strategic Staffing Solutions | 3 |
+| CareSource | 2 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Associate Cloud Specialist](https://careers-hyland.icims.com/jobs/14627/associate-cloud-specialist/job?in_iframe=1) | Hyland Software | Hyderabad, TG | 2026-10-28 |
+| [Ot Artificial Intelligence Machine Learning Engineer](https://jobs.strategicstaff.com/jobs/ot-artificial-intelligence-machine-learning-engineer-170641/) | Strategic Staffing Solutions | Argentina, Remote | 2026-10-28 |
+| [Ot Artificial Intelligence Ml Operations And Platform Engineer](https://jobs.strategicstaff.com/jobs/ot-artificial-intelligence-ml-operations-and-platform-engineer-170644/) | Strategic Staffing Solutions | Argentina, Remote | 2026-10-28 |
+| [Senior Ot Data Engineer Ace Ai Project](https://jobs.strategicstaff.com/jobs/senior-ot-data-engineer-ace-ai-project-170638/) | Strategic Staffing Solutions | Argentina, Remote | 2026-10-28 |
+| [AI Product Manager](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/AI-Product-Manager_R14157) | CareSource | Remote | 2026-10-28 |
+| [Manager, Application Production Support](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Manager--Application-Production-Support_R14172) | CareSource | Remote | 2026-10-28 |
 <!-- JOBS:END -->
 
 ## How it works
