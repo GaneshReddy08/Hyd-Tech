@@ -45,15 +45,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 349 tracked total · updated `2026-10-28T08:51:53+00:00`
+### 🆕 1 new roles this update · 350 tracked total · updated `2026-10-28T17:02:21+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| MRI Software | 1 |
+| Hyland Software | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Product Owner, Client & Digital Support](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Canada-Remote/Product-Owner--Client---Digital-Support_R-109630) | MRI Software | Canada Remote | 2026-10-28 |
+| [Associate Cloud Specialist](https://careers-hyland.icims.com/jobs/14627/associate-cloud-specialist/job?in_iframe=1) | Hyland Software | Hyderabad, TG | 2026-10-28 |
 <!-- JOBS:END -->
 
 ## How it works
