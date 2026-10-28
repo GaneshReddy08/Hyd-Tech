@@ -45,9 +45,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **348** roles open total · updated `2026-10-28T01:45:03+00:00`
+### 🆕 1 new roles this update · 349 tracked total · updated `2026-10-28T08:51:53+00:00`
 
-Nothing new since the last run — [browse all 348 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| MRI Software | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Product Owner, Client & Digital Support](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Canada-Remote/Product-Owner--Client---Digital-Support_R-109630) | MRI Software | Canada Remote | 2026-10-28 |
 <!-- JOBS:END -->
 
 ## How it works
