@@ -45,15 +45,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 348 tracked total · updated `2026-10-27T22:35:30+00:00`
+### 🟢 No new roles this update · **348** roles open total · updated `2026-10-28T01:45:03+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Stanton House | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Senior Physical Security Engineer](https://www.stantonhouse.com/us/jobs/33154-Senior-Physical-Security-Engineer) | Stanton House | Remote or Hybrid in New York City, Denver, or Charlotte | 2026-10-27 |
+Nothing new since the last run — [browse all 348 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
