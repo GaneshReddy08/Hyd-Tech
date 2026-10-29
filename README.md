@@ -45,20 +45,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 355 tracked total · updated `2026-10-28T23:00:00+00:00`
+### 🟢 No new roles this update · **355** roles open total · updated `2026-10-29T06:09:49+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Strategic Staffing Solutions | 3 |
-| CareSource | 2 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Ot Artificial Intelligence Machine Learning Engineer](https://jobs.strategicstaff.com/jobs/ot-artificial-intelligence-machine-learning-engineer-170641/) | Strategic Staffing Solutions | Argentina, Remote | 2026-10-28 |
-| [Ot Artificial Intelligence Ml Operations And Platform Engineer](https://jobs.strategicstaff.com/jobs/ot-artificial-intelligence-ml-operations-and-platform-engineer-170644/) | Strategic Staffing Solutions | Argentina, Remote | 2026-10-28 |
-| [Senior Ot Data Engineer Ace Ai Project](https://jobs.strategicstaff.com/jobs/senior-ot-data-engineer-ace-ai-project-170638/) | Strategic Staffing Solutions | Argentina, Remote | 2026-10-28 |
-| [AI Product Manager](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/AI-Product-Manager_R14157) | CareSource | Remote | 2026-10-28 |
-| [Manager, Application Production Support](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Manager--Application-Production-Support_R14172) | CareSource | Remote | 2026-10-28 |
+Nothing new since the last run — [browse all 355 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
