@@ -45,17 +45,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 357 tracked total · updated `2026-10-29T13:20:19+00:00`
+### 🆕 3 new roles this update · 360 tracked total · updated `2026-10-29T19:59:29+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Synchrony | 1 |
-| Medpace | 1 |
+| CareSource | 2 |
+| Abbott (Columbus) | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [AVP - Software Engineer III (L10)](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/AVP---Software-Engineer-III--L10-_2602664-1) | Synchrony | Hyderabad IN | 2026-10-29 |
-| [Experienced Clinical Database Programmer (Based in Hyderabad)](https://international-medpace.icims.com/jobs/12322/login) | Medpace | Hyderabad, India | 2026-10-29 |
+| [2027 Summer Internship Program - AI Intern](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Intern_R14123) | CareSource | Remote | 2026-10-29 |
+| [2027 Summer Internship Program - Full Stack AI Development Intern-1](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Full-Stack-AI-Development-Intern-1_R14181) | CareSource | Remote | 2026-10-29 |
+| [Product Manager- Epic](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Product-Manager--Epic_31165840) | Abbott (Columbus) | United States of America : Remote | 2026-10-29 |
 <!-- JOBS:END -->
 
 ## How it works
