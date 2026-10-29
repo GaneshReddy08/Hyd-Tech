@@ -45,9 +45,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **355** roles open total · updated `2026-10-29T06:09:49+00:00`
+### 🆕 2 new roles this update · 357 tracked total · updated `2026-10-29T13:20:19+00:00`
 
-Nothing new since the last run — [browse all 355 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| Synchrony | 1 |
+| Medpace | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [AVP - Software Engineer III (L10)](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/AVP---Software-Engineer-III--L10-_2602664-1) | Synchrony | Hyderabad IN | 2026-10-29 |
+| [Experienced Clinical Database Programmer (Based in Hyderabad)](https://international-medpace.icims.com/jobs/12322/login) | Medpace | Hyderabad, India | 2026-10-29 |
 <!-- JOBS:END -->
 
 ## How it works
