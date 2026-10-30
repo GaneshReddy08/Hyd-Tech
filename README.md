@@ -45,9 +45,16 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **369** roles open total · updated `2026-10-30T13:21:08+00:00`
+### 🆕 2 new roles this update · 371 tracked total · updated `2026-10-30T19:43:45+00:00`
 
-Nothing new since the last run — [browse all 369 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| Path Robotics | 2 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Senior Machine Learning Engineer (Reinforcement Learning/World Model)](https://boards.greenhouse.io/pathrobotics/jobs/8632104002?gh_jid=8632104002) | Path Robotics | Columbus, Ohio or Remote | 2026-10-30 |
+| [Senior Machine Learning Engineer (Tech Lead), Robot Learning, Loco- Manipulation](https://boards.greenhouse.io/pathrobotics/jobs/8527131002?gh_jid=8527131002) | Path Robotics | Columbus, Ohio or Remote | 2026-10-30 |
 <!-- JOBS:END -->
 
 ## How it works
