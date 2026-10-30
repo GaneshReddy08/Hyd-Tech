@@ -45,23 +45,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 8 new roles this update · 368 tracked total · updated `2026-10-30T00:24:57+00:00`
+### 🆕 1 new roles this update · 369 tracked total · updated `2026-10-30T06:12:19+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Strategic Staffing Solutions | 7 |
-| Edconic | 1 |
+| Diebold Nixdorf | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Front End Developer](https://remoteOK.com/remote-jobs/remote-front-end-developer-edconic-1137597) | Edconic | Remote (Worldwide) | 2026-10-30 |
-| [Data Architect Industrial Data Platform Ace Ai Project](https://jobs.strategicstaff.com/jobs/data-architect-industrial-data-platform-ace-ai-project-170639/) | Strategic Staffing Solutions | Argentina, Remote | 2026-10-30 |
-| [Ot Artificial Intelligence Technical Product Owner Ace Ai Project](https://jobs.strategicstaff.com/jobs/ot-artificial-intelligence-technical-product-owner-ace-ai-project-170640/) | Strategic Staffing Solutions | Argentina, Remote | 2026-10-30 |
-| [Ot Artificial Intelligence Computer Vision Engineer Ace Ai Project](https://jobs.strategicstaff.com/jobs/ot-artificial-intelligence-computer-vision-engineer-ace-ai-project-170642/) | Strategic Staffing Solutions | Argentina, Remote | 2026-10-30 |
-| [Ot Artificial Intelligence Data Engineer Ace Ai Project](https://jobs.strategicstaff.com/jobs/ot-artificial-intelligence-data-engineer-ace-ai-project-170643/) | Strategic Staffing Solutions | Argentina, Remote | 2026-10-30 |
-| [Ot Artificial Intelligence Edge Integration Engineer Ace Ai Project](https://jobs.strategicstaff.com/jobs/ot-artificial-intelligence-edge-integration-engineer-ace-ai-project-170645/) | Strategic Staffing Solutions | Argentina, Remote | 2026-10-30 |
-| [Ot Artificial Intelligence Application Developer Ace Ai Project](https://jobs.strategicstaff.com/jobs/ot-artificial-intelligence-application-developer-ace-ai-project-170646/) | Strategic Staffing Solutions | Argentina, Remote | 2026-10-30 |
-| [Ot Artificial Intelligence Test And Assurance Engineer Ace Ai Project](https://jobs.strategicstaff.com/jobs/ot-artificial-intelligence-test-and-assurance-engineer-ace-ai-project-170647/) | Strategic Staffing Solutions | Argentina, Remote | 2026-10-30 |
+| [Senior Manager Information Technology (Enterprise Data Migration _ Azure Cloud _ Databricks _ Data Governance)](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20624) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-10-30 |
 <!-- JOBS:END -->
 
 ## How it works
