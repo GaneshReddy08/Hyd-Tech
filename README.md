@@ -45,15 +45,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 369 tracked total · updated `2026-10-30T06:12:19+00:00`
+### 🟢 No new roles this update · **369** roles open total · updated `2026-10-30T13:21:08+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Diebold Nixdorf | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Senior Manager Information Technology (Enterprise Data Migration _ Azure Cloud _ Databricks _ Data Governance)](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20624) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-10-30 |
+Nothing new since the last run — [browse all 369 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
