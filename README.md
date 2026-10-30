@@ -45,18 +45,23 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 360 tracked total · updated `2026-10-29T19:59:29+00:00`
+### 🆕 8 new roles this update · 368 tracked total · updated `2026-10-30T00:24:57+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| CareSource | 2 |
-| Abbott (Columbus) | 1 |
+| Strategic Staffing Solutions | 7 |
+| Edconic | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [2027 Summer Internship Program - AI Intern](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Intern_R14123) | CareSource | Remote | 2026-10-29 |
-| [2027 Summer Internship Program - Full Stack AI Development Intern-1](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Full-Stack-AI-Development-Intern-1_R14181) | CareSource | Remote | 2026-10-29 |
-| [Product Manager- Epic](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Product-Manager--Epic_31165840) | Abbott (Columbus) | United States of America : Remote | 2026-10-29 |
+| [Front End Developer](https://remoteOK.com/remote-jobs/remote-front-end-developer-edconic-1137597) | Edconic | Remote (Worldwide) | 2026-10-30 |
+| [Data Architect Industrial Data Platform Ace Ai Project](https://jobs.strategicstaff.com/jobs/data-architect-industrial-data-platform-ace-ai-project-170639/) | Strategic Staffing Solutions | Argentina, Remote | 2026-10-30 |
+| [Ot Artificial Intelligence Technical Product Owner Ace Ai Project](https://jobs.strategicstaff.com/jobs/ot-artificial-intelligence-technical-product-owner-ace-ai-project-170640/) | Strategic Staffing Solutions | Argentina, Remote | 2026-10-30 |
+| [Ot Artificial Intelligence Computer Vision Engineer Ace Ai Project](https://jobs.strategicstaff.com/jobs/ot-artificial-intelligence-computer-vision-engineer-ace-ai-project-170642/) | Strategic Staffing Solutions | Argentina, Remote | 2026-10-30 |
+| [Ot Artificial Intelligence Data Engineer Ace Ai Project](https://jobs.strategicstaff.com/jobs/ot-artificial-intelligence-data-engineer-ace-ai-project-170643/) | Strategic Staffing Solutions | Argentina, Remote | 2026-10-30 |
+| [Ot Artificial Intelligence Edge Integration Engineer Ace Ai Project](https://jobs.strategicstaff.com/jobs/ot-artificial-intelligence-edge-integration-engineer-ace-ai-project-170645/) | Strategic Staffing Solutions | Argentina, Remote | 2026-10-30 |
+| [Ot Artificial Intelligence Application Developer Ace Ai Project](https://jobs.strategicstaff.com/jobs/ot-artificial-intelligence-application-developer-ace-ai-project-170646/) | Strategic Staffing Solutions | Argentina, Remote | 2026-10-30 |
+| [Ot Artificial Intelligence Test And Assurance Engineer Ace Ai Project](https://jobs.strategicstaff.com/jobs/ot-artificial-intelligence-test-and-assurance-engineer-ace-ai-project-170647/) | Strategic Staffing Solutions | Argentina, Remote | 2026-10-30 |
 <!-- JOBS:END -->
 
 ## How it works
