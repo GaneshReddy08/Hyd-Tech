@@ -45,9 +45,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **371** roles open total · updated `2026-10-31T12:39:01+00:00`
+### 🆕 1 new roles this update · 372 tracked total · updated `2026-10-31T18:57:46+00:00`
 
-Nothing new since the last run — [browse all 371 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| Cloudary SAS | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [AWS Cloud Solutions Architect](https://remoteOK.com/remote-jobs/remote-aws-cloud-solutions-architect-cloudary-sas-1137606) | Cloudary SAS | Remote (Worldwide) | 2026-10-31 |
 <!-- JOBS:END -->
 
 ## How it works
