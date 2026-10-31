@@ -45,16 +45,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 371 tracked total · updated `2026-10-30T19:43:45+00:00`
+### 🆕 1 new roles this update · 371 tracked total · updated `2026-10-31T00:05:45+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Path Robotics | 2 |
+| Path Robotics | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior Machine Learning Engineer (Reinforcement Learning/World Model)](https://boards.greenhouse.io/pathrobotics/jobs/8632104002?gh_jid=8632104002) | Path Robotics | Columbus, Ohio or Remote | 2026-10-30 |
-| [Senior Machine Learning Engineer (Tech Lead), Robot Learning, Loco- Manipulation](https://boards.greenhouse.io/pathrobotics/jobs/8527131002?gh_jid=8527131002) | Path Robotics | Columbus, Ohio or Remote | 2026-10-30 |
+| [Machine Learning Engineer, Perception](https://boards.greenhouse.io/pathrobotics/jobs/8925919002?gh_jid=8925919002) | Path Robotics | Columbus, Ohio or Remote | 2026-10-31 |
 <!-- JOBS:END -->
 
 ## How it works
