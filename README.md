@@ -45,15 +45,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 371 tracked total · updated `2026-10-31T00:05:45+00:00`
+### 🟢 No new roles this update · **371** roles open total · updated `2026-10-31T05:54:56+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Path Robotics | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Machine Learning Engineer, Perception](https://boards.greenhouse.io/pathrobotics/jobs/8925919002?gh_jid=8925919002) | Path Robotics | Columbus, Ohio or Remote | 2026-10-31 |
+Nothing new since the last run — [browse all 371 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
