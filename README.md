@@ -45,9 +45,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **372** roles open total · updated `2026-11-01T06:17:35+00:00`
+### 🆕 1 new roles this update · 373 tracked total · updated `2026-11-01T13:39:54+00:00`
 
-Nothing new since the last run — [browse all 372 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| Gina's Tech Jobs | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Data Analyst, Python Programming – Work From Home](https://www.ginastechjobs.com/job/data-analyst-work-from-home/) | Gina's Tech Jobs | Washington D.C., DC, USA (Remote) | 2026-11-01 |
 <!-- JOBS:END -->
 
 ## How it works
