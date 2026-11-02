@@ -45,17 +45,24 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 375 tracked total · updated `2026-11-02T16:15:01+00:00`
+### 🆕 7 new roles this update · 382 tracked total · updated `2026-11-02T23:50:23+00:00`
 
 | Firm | New roles |
 | --- | ---: |
+| Cincinnati Children's Hospital | 4 |
 | CareSource | 1 |
-| Hyland Software | 1 |
+| Cleveland Clinic | 1 |
+| GE Aerospace | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Manager, Site Reliability Engineering](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Manager--Site-Reliability-Engineering_R14061-1) | CareSource | Remote | 2026-11-02 |
-| [Cloud Specialist 1](https://careers-hyland.icims.com/jobs/14627/cloud-specialist-1/job?in_iframe=1) | Hyland Software | Hyderabad, TG | 2026-11-02 |
+| [AI Analyst IV](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/AI-Analyst-IV_R14265) | CareSource | Remote | 2026-11-02 |
+| [Research Data Scientist I](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Research-Data-Scientist-I_360816) | Cleveland Clinic | Remote Location | 2026-11-02 |
+| [Student II - Software Engineering Developer (A)](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Software-Engineering-Developer--A-_JR226736) | Cincinnati Children's Hospital | Remote | 2026-11-02 |
+| [Student II - Software Engineering Developer (B)](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Software-Engineering-Developer--B-_JR226743) | Cincinnati Children's Hospital | Remote | 2026-11-02 |
+| [EMR Analyst II - Epic](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/EMR-Analyst-II---Epic_JR226555) | Cincinnati Children's Hospital | Remote | 2026-11-02 |
+| [Student II - Data Management Engineer](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Data-Management-Engineer_JR226749) | Cincinnati Children's Hospital | Remote | 2026-11-02 |
+| [Lead Supplier Quality Engineer - Metallic Powders & Melting](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Lead-Supplier-Quality-Engineer---Metallic-Powders---Melting_R5042533-1) | GE Aerospace | Remote | 2026-11-02 |
 <!-- JOBS:END -->
 
 ## How it works
