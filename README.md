@@ -45,18 +45,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 373 tracked total · updated `2026-11-02T06:20:30+00:00`
+### 🆕 2 new roles this update · 375 tracked total · updated `2026-11-02T16:15:01+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| GE Aerospace | 2 |
-| L3Harris | 1 |
+| CareSource | 1 |
+| Hyland Software | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Artificial Intelligence Intern](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Artificial-Intelligence-Intern_R5042294-1) | GE Aerospace | Remote | 2026-11-02 |
-| [Artificial Intelligence Intern](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Artificial-Intelligence-Intern_R5042291-1) | GE Aerospace | Remote | 2026-11-02 |
-| [Sr. Specialist, Supplier Quality Engineer (Composites)](https://careers.l3harris.com/en/job/united-states/sr-specialist-supplier-quality-engineer-composites/4832/102746788912) | L3Harris | Remote | 2026-11-02 |
+| [Manager, Site Reliability Engineering](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Manager--Site-Reliability-Engineering_R14061-1) | CareSource | Remote | 2026-11-02 |
+| [Cloud Specialist 1](https://careers-hyland.icims.com/jobs/14627/cloud-specialist-1/job?in_iframe=1) | Hyland Software | Hyderabad, TG | 2026-11-02 |
 <!-- JOBS:END -->
 
 ## How it works
