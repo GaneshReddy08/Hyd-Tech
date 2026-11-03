@@ -45,17 +45,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 385 tracked total · updated `2026-11-03T16:40:45+00:00`
+### 🆕 2 new roles this update · 387 tracked total · updated `2026-11-03T22:11:58+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Docusketch | 1 |
-| Synchrony | 1 |
+| Apex Systems | 1 |
+| CareSource | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [AI ML Engineer](https://remoteOK.com/remote-jobs/remote-ai-ml-engineer-docusketch-1137619) | Docusketch | Remote (Worldwide) | 2026-11-03 |
-| [API Software Development Engineer – II, EIS (L09)](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/API-Software-Development-Engineer---II--EIS--L09-_2602996) | Synchrony | Hyderabad IN | 2026-11-03 |
+| [Technical Project/Program Management - Technical Project Manager III](https://www.apexsystems.com/job/3058120_usa/technical-projectprogram-management---technical-project-manager-iii) | Apex Systems | Remote, CA | 2026-11-03 |
+| [2027 Summer Internship Program - Data Science Intern](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Science-Intern_R14306) | CareSource | Remote | 2026-11-03 |
 <!-- JOBS:END -->
 
 ## How it works
