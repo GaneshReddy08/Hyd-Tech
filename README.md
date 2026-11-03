@@ -45,15 +45,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 383 tracked total · updated `2026-11-03T07:04:13+00:00`
+### 🆕 2 new roles this update · 385 tracked total · updated `2026-11-03T16:40:45+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Vertiv | 1 |
+| Docusketch | 1 |
+| Synchrony | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Application Development & Support Specialist](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20285347) | Vertiv | Hyderabad, India | 2026-11-03 |
+| [AI ML Engineer](https://remoteOK.com/remote-jobs/remote-ai-ml-engineer-docusketch-1137619) | Docusketch | Remote (Worldwide) | 2026-11-03 |
+| [API Software Development Engineer – II, EIS (L09)](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/API-Software-Development-Engineer---II--EIS--L09-_2602996) | Synchrony | Hyderabad IN | 2026-11-03 |
 <!-- JOBS:END -->
 
 ## How it works
