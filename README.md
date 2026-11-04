@@ -45,17 +45,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 387 tracked total · updated `2026-11-03T22:11:58+00:00`
+### 🟢 No new roles this update · **387** roles open total · updated `2026-11-04T02:43:28+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Apex Systems | 1 |
-| CareSource | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Technical Project/Program Management - Technical Project Manager III](https://www.apexsystems.com/job/3058120_usa/technical-projectprogram-management---technical-project-manager-iii) | Apex Systems | Remote, CA | 2026-11-03 |
-| [2027 Summer Internship Program - Data Science Intern](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Science-Intern_R14306) | CareSource | Remote | 2026-11-03 |
+Nothing new since the last run — [browse all 387 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
