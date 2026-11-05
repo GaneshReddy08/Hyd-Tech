@@ -45,15 +45,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 393 tracked total · updated `2026-11-05T09:47:45+00:00`
+### 🆕 3 new roles this update · 396 tracked total · updated `2026-11-05T18:31:56+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Procter & Gamble | 1 |
+| Claims | 1 |
+| Strategic Staffing Solutions | 1 |
+| Cincinnati Children's Hospital | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Full Stack Developer Software Engineer](https://pg.wd5.myworkdayjobs.com/1000/job/HYDERABAD-OFFICE-APAC-PSC-GDOP/Full-Stack-Developer-Software-Engineer_R000162157) | Procter & Gamble | HYDERABAD OFFICE APAC PSC GDOP | 2026-11-05 |
+| [Software Engineer](https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685) | Claims | Remote (Worldwide) | 2026-11-05 |
+| [Identity And Access Strategy Lead Fixed Term Contract](https://jobs.strategicstaff.com/jobs/identity-and-access-strategy-lead-fixed-term-contract-170655/) | Strategic Staffing Solutions | Lithuania, Remote | 2026-11-05 |
+| [Senior EMR Analyst - CINCI Lab](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Senior-EMR-Analyst---CINCI-Lab_JR226550) | Cincinnati Children's Hospital | Remote | 2026-11-05 |
 <!-- JOBS:END -->
 
 ## How it works
