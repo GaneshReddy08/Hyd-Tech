@@ -45,22 +45,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 392 tracked total · updated `2026-11-04T20:07:41+00:00`
+### 🟢 No new roles this update · **392** roles open total · updated `2026-11-05T01:17:09+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Stanton House | 2 |
-| Cleveland Clinic | 1 |
-| Cincinnati Children's Hospital | 1 |
-| GE Aerospace | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Incident Response Lead](https://www.stantonhouse.com/us/jobs/32475-Incident-Response-Lead) | Stanton House | Seattle, WA (on-site) \| Remote options (EST) | 2026-11-04 |
-| [Infrastructure Security Engineer](https://www.stantonhouse.com/us/jobs/32584-Infrastructure-Security-Engineer) | Stanton House | New York City, NY (on-site) \| Remote options (EST) | 2026-11-04 |
-| [EBI Database Developer II](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/EBI-Database-Developer-III_306536-1) | Cleveland Clinic | Remote Location | 2026-11-04 |
-| [Senior EBA Technical Analyst - ServiceNow](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Senior-EBA-Technical-Analyst---ServiceNow_JR220821) | Cincinnati Children's Hospital | Remote | 2026-11-04 |
-| [Advanced Lead Supplier Quality Engineer - Composites](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Advanced-Lead-Supplier-Quality-Engineer---Composites_R5042638-1) | GE Aerospace | Remote | 2026-11-04 |
+Nothing new since the last run — [browse all 392 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
