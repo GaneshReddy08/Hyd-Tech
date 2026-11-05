@@ -45,9 +45,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **392** roles open total · updated `2026-11-05T01:17:09+00:00`
+### 🆕 1 new roles this update · 393 tracked total · updated `2026-11-05T09:47:45+00:00`
 
-Nothing new since the last run — [browse all 392 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| Procter & Gamble | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Full Stack Developer Software Engineer](https://pg.wd5.myworkdayjobs.com/1000/job/HYDERABAD-OFFICE-APAC-PSC-GDOP/Full-Stack-Developer-Software-Engineer_R000162157) | Procter & Gamble | HYDERABAD OFFICE APAC PSC GDOP | 2026-11-05 |
 <!-- JOBS:END -->
 
 ## How it works
