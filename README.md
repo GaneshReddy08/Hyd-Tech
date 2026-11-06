@@ -45,15 +45,25 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 401 tracked total · updated `2026-11-06T07:10:31+00:00`
+### 🆕 7 new roles this update · 408 tracked total · updated `2026-11-06T16:18:57+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Diebold Nixdorf | 1 |
+| Toptal | 2 |
+| Diebold Nixdorf | 2 |
+| Lemon.io | 1 |
+| Cardinal Health | 1 |
+| Emerson | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Principal Business Intelligence Analyst](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20494) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-11-06 |
+| [Operations Expert with Python for AI Supply Chain Task Design](https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690) | Toptal | Anywhere in the World | 2026-11-06 |
+| [ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)](https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689) | Toptal | Anywhere in the World | 2026-11-06 |
+| [Senior Vue Developer](https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688) | Lemon.io | Remote (Worldwide) | 2026-11-06 |
+| [Software Engineer (C#, .NET Core, React JS, Azure, Retail Domain)](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20678) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-11-06 |
+| [Senior Software Engineer(C#, .NET Core, React JS, Azure, Retail Domain)](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20677) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-11-06 |
+| [Director, Enterprise Financial Planning & Analysis](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-Work-from-Home/Director--Enterprise-Financial-Planning---Analysis_20190121-1) | Cardinal Health | OH-Ohio-Work from Home | 2026-11-06 |
+| [Test Engineer](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013453) | Emerson | HYDERABAD, TELANGANA, India | 2026-11-06 |
 <!-- JOBS:END -->
 
 ## How it works
