@@ -45,19 +45,22 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 396 tracked total · updated `2026-11-05T18:31:56+00:00`
+### 🆕 5 new roles this update · 401 tracked total · updated `2026-11-06T00:04:55+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Claims | 1 |
-| Strategic Staffing Solutions | 1 |
-| Cincinnati Children's Hospital | 1 |
+| CareSource | 2 |
+| iMerit | 1 |
+| J.M. Smucker | 1 |
+| Cardinal Health | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Software Engineer](https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685) | Claims | Remote (Worldwide) | 2026-11-05 |
-| [Identity And Access Strategy Lead Fixed Term Contract](https://jobs.strategicstaff.com/jobs/identity-and-access-strategy-lead-fixed-term-contract-170655/) | Strategic Staffing Solutions | Lithuania, Remote | 2026-11-05 |
-| [Senior EMR Analyst - CINCI Lab](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Senior-EMR-Analyst---CINCI-Lab_JR226550) | Cincinnati Children's Hospital | Remote | 2026-11-05 |
+| [AI Content Reviewer Video Annotation](https://remoteOK.com/remote-jobs/remote-ai-content-reviewer-video-annotation-imerit-1137686) | iMerit | Remote (Worldwide) | 2026-11-06 |
+| [2027 Summer Internship Program - Cybersecurity](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Cybersecurity_R14178) | CareSource | Remote | 2026-11-06 |
+| [2027 Summer Internship Program - Data Analyst](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Analyst_R14356) | CareSource | Remote | 2026-11-06 |
+| [Data Science Intern, Summer 2027](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Working-Remote-USA/Data-Science-Intern--Summer-2027_116118) | J.M. Smucker | Working Remote USA | 2026-11-06 |
+| [IT Business Analyst](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-Work-from-Home/IT-Business-Analyst_20189765) | Cardinal Health | OH-Ohio-Work from Home | 2026-11-06 |
 <!-- JOBS:END -->
 
 ## How it works
