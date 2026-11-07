@@ -45,23 +45,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 413 tracked total · updated `2026-11-06T21:56:32+00:00`
+### 🟢 No new roles this update · **413** roles open total · updated `2026-11-07T02:14:13+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Silver.dev | 1 |
-| Cambridge Information Group | 1 |
-| CareSource | 1 |
-| Root Insurance | 1 |
-| Cleveland Clinic | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Feltsense AI Engineer](https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691) | Silver.dev | Remote (Worldwide) | 2026-11-06 |
-| [Front End Developer](https://remoteOK.com/remote-jobs/remote-front-end-developer-cambridge-information-group-1137597) | Cambridge Information Group | Remote (Worldwide) | 2026-11-06 |
-| [Data Engineer III](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Data-Engineer-III_R14343) | CareSource | Remote | 2026-11-06 |
-| [Staff Security Engineer](https://ats.rippling.com/joinroot/jobs/970dfc59-ff93-4549-b769-69b03f965a58) | Root Insurance | Remote (United States) | 2026-11-06 |
-| [Data Scientist I - Center for Diagnostics and Artificial Intelligence](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Data-Scientist-I---Center-for-Diagnostics-and-Artificial-Intelligence_356735) | Cleveland Clinic | Remote Location | 2026-11-06 |
+Nothing new since the last run — [browse all 413 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
