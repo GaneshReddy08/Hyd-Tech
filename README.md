@@ -45,17 +45,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 414 tracked total · updated `2026-11-08T01:53:25+00:00`
+### 🆕 1 new roles this update · 415 tracked total · updated `2026-11-08T09:19:23+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Salvo Software | 1 |
-| Compunnel | 1 |
+| Procter & Gamble | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [AI Developer](https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701) | Salvo Software | Remote (Worldwide) | 2026-11-08 |
-| [Senior Genesys Cloud CX Engineer](https://jobs.compunnel.com/jobs/6030937) | Compunnel | Remote, Oregon, United States | 2026-11-08 |
+| [Modeling & Simulation Machine Learning Engineer](https://pg.wd5.myworkdayjobs.com/1000/job/HYDERABAD-OFFICE-APAC-PSC-GDOP/Modeling---Simulation-Machine-Learning-Engineer_R000161635) | Procter & Gamble | HYDERABAD OFFICE APAC PSC GDOP | 2026-11-08 |
 <!-- JOBS:END -->
 
 ## How it works
