@@ -45,9 +45,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **413** roles open total · updated `2026-11-07T22:08:30+00:00`
+### 🆕 2 new roles this update · 414 tracked total · updated `2026-11-08T01:53:25+00:00`
 
-Nothing new since the last run — [browse all 413 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| Salvo Software | 1 |
+| Compunnel | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [AI Developer](https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701) | Salvo Software | Remote (Worldwide) | 2026-11-08 |
+| [Senior Genesys Cloud CX Engineer](https://jobs.compunnel.com/jobs/6030937) | Compunnel | Remote, Oregon, United States | 2026-11-08 |
 <!-- JOBS:END -->
 
 ## How it works
