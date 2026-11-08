@@ -45,15 +45,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 415 tracked total · updated `2026-11-08T09:19:23+00:00`
+### 🟢 No new roles this update · **415** roles open total · updated `2026-11-08T16:59:10+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Procter & Gamble | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Modeling & Simulation Machine Learning Engineer](https://pg.wd5.myworkdayjobs.com/1000/job/HYDERABAD-OFFICE-APAC-PSC-GDOP/Modeling---Simulation-Machine-Learning-Engineer_R000161635) | Procter & Gamble | HYDERABAD OFFICE APAC PSC GDOP | 2026-11-08 |
+Nothing new since the last run — [browse all 415 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
