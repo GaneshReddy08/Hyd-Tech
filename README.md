@@ -45,9 +45,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **414** roles open total · updated `2026-11-09T10:13:17+00:00`
+### 🆕 1 new roles this update · 415 tracked total · updated `2026-11-09T21:16:04+00:00`
 
-Nothing new since the last run — [browse all 414 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| Strategic Staffing Solutions | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Scrum Master For Risk Credit And Compliance](https://jobs.strategicstaff.com/jobs/scrum-master-for-risk-credit-and-compliance-170664/) | Strategic Staffing Solutions | Argentina, Remote | 2026-11-09 |
 <!-- JOBS:END -->
 
 ## How it works
