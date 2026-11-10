@@ -45,9 +45,21 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **414** roles open total · updated `2026-11-10T13:01:16+00:00`
+### 🆕 4 new roles this update · 418 tracked total · updated `2026-11-10T21:13:48+00:00`
 
-Nothing new since the last run — [browse all 414 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| Extend Your Team | 1 |
+| CareSource | 1 |
+| Fifth Third Bank | 1 |
+| L3Harris | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [HIL Support Specialist](https://remoteOK.com/remote-jobs/remote-hil-support-specialist-extend-your-team-1137711) | Extend Your Team | Remote (Worldwide) | 2026-11-10 |
+| [FWA Payment Integrity Data Analyst III (Health Plan & SQL exp required)](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/FWA-Payment-Integrity-Data-Analyst-III--Health-Plan---SQL-exp-required-_R14454) | CareSource | Remote | 2026-11-10 |
+| [Lead Information Security Engineer - Cyber Defense](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/Lead-Information-Security-Engineer---Cyber-Defense_R74867-1) | Fifth Third Bank | Virtual | 2026-11-10 |
+| [Lead, Data Architect - Business Solution Architect](https://careers.l3harris.com/en/job/united-states/lead-data-architect-business-solution-architect/4832/103118096144) | L3Harris | Remote | 2026-11-10 |
 <!-- JOBS:END -->
 
 ## How it works
