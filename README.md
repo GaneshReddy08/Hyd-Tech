@@ -45,21 +45,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 418 tracked total · updated `2026-11-10T21:13:48+00:00`
+### 🆕 1 new roles this update · 418 tracked total · updated `2026-11-11T02:15:04+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Extend Your Team | 1 |
-| CareSource | 1 |
-| Fifth Third Bank | 1 |
-| L3Harris | 1 |
+| Buoyant | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [HIL Support Specialist](https://remoteOK.com/remote-jobs/remote-hil-support-specialist-extend-your-team-1137711) | Extend Your Team | Remote (Worldwide) | 2026-11-10 |
-| [FWA Payment Integrity Data Analyst III (Health Plan & SQL exp required)](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/FWA-Payment-Integrity-Data-Analyst-III--Health-Plan---SQL-exp-required-_R14454) | CareSource | Remote | 2026-11-10 |
-| [Lead Information Security Engineer - Cyber Defense](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/Lead-Information-Security-Engineer---Cyber-Defense_R74867-1) | Fifth Third Bank | Virtual | 2026-11-10 |
-| [Lead, Data Architect - Business Solution Architect](https://careers.l3harris.com/en/job/united-states/lead-data-architect-business-solution-architect/4832/103118096144) | L3Harris | Remote | 2026-11-10 |
+| [Senior Software Engineer â Kubernetes Control Plane](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-kubernetes-control-plane-buoyant-1137713) | Buoyant | Remote (Worldwide) | 2026-11-11 |
 <!-- JOBS:END -->
 
 ## How it works
