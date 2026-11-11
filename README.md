@@ -45,15 +45,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 419 tracked total · updated `2026-11-11T09:46:12+00:00`
+### 🆕 2 new roles this update · 421 tracked total · updated `2026-11-11T18:19:44+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Procter & Gamble | 1 |
+| Addepto | 1 |
+| Pinnacle Group | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer (Databricks)](https://pg.wd5.myworkdayjobs.com/1000/job/HYDERABAD-OFFICE-INDIA-PSC-PGH/Data-Engineer--Databricks-_R000162190) | Procter & Gamble | HYDERABAD OFFICE INDIA PSC PGH | 2026-11-11 |
+| [Data Engineer](https://remoteOK.com/remote-jobs/remote-data-engineer-addepto-1137714) | Addepto | Remote (Worldwide) | 2026-11-11 |
+| [Director, AI Solutions Delivery & Operations](https://pinnaclegroup.wd1.myworkdayjobs.com/PinnacleGroup/job/Remote-NJ/Director--AI-Solutions-Delivery---Operations_JR1304) | Pinnacle Group | Remote NJ | 2026-11-11 |
 <!-- JOBS:END -->
 
 ## How it works
