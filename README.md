@@ -45,15 +45,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 418 tracked total · updated `2026-11-11T02:15:04+00:00`
+### 🆕 1 new roles this update · 419 tracked total · updated `2026-11-11T09:46:12+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Buoyant | 1 |
+| Procter & Gamble | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior Software Engineer â Kubernetes Control Plane](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-kubernetes-control-plane-buoyant-1137713) | Buoyant | Remote (Worldwide) | 2026-11-11 |
+| [Data Engineer (Databricks)](https://pg.wd5.myworkdayjobs.com/1000/job/HYDERABAD-OFFICE-INDIA-PSC-PGH/Data-Engineer--Databricks-_R000162190) | Procter & Gamble | HYDERABAD OFFICE INDIA PSC PGH | 2026-11-11 |
 <!-- JOBS:END -->
 
 ## How it works
