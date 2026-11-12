@@ -45,23 +45,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 426 tracked total · updated `2026-11-12T01:06:14+00:00`
+### 🟢 No new roles this update · **426** roles open total · updated `2026-11-12T10:10:09+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| TRU Staffing Partners | 1 |
-| CareSource | 1 |
-| Materion | 1 |
-| Abbott (Columbus) | 1 |
-| Levi Strauss | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [CONTRACT OneTrust Implementation Consultant](https://jobs.trustaffingpartners.com/?jobid=7678#/jobs/7678) | TRU Staffing Partners | Anywhere | 2026-11-12 |
-| [Application Security Developer III](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Application-Security-Developer-III_R14459) | CareSource | Remote | 2026-11-12 |
-| [AI Solutions Architect](https://materion.wd5.myworkdayjobs.com/Materion/job/Remote/AI-Solutions-Architect_2026-R8886-1) | Materion | Remote | 2026-11-12 |
-| [Sr. Cybersecurity Specialist](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Sr-Cybersecurity-Specialist_31166213) | Abbott (Columbus) | United States of America : Remote | 2026-11-12 |
-| [Manager, HR Technology & AI Solutions](https://levistraussandco.wd5.myworkdayjobs.com/External/job/Remote---USA/Manager--HR-Technology---AI-Solutions_R-0158485-1) | Levi Strauss | Remote - USA | 2026-11-12 |
+Nothing new since the last run — [browse all 426 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
