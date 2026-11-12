@@ -45,17 +45,23 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 421 tracked total · updated `2026-11-11T18:19:44+00:00`
+### 🆕 5 new roles this update · 426 tracked total · updated `2026-11-12T01:06:14+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Addepto | 1 |
-| Pinnacle Group | 1 |
+| TRU Staffing Partners | 1 |
+| CareSource | 1 |
+| Materion | 1 |
+| Abbott (Columbus) | 1 |
+| Levi Strauss | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Data Engineer](https://remoteOK.com/remote-jobs/remote-data-engineer-addepto-1137714) | Addepto | Remote (Worldwide) | 2026-11-11 |
-| [Director, AI Solutions Delivery & Operations](https://pinnaclegroup.wd1.myworkdayjobs.com/PinnacleGroup/job/Remote-NJ/Director--AI-Solutions-Delivery---Operations_JR1304) | Pinnacle Group | Remote NJ | 2026-11-11 |
+| [CONTRACT OneTrust Implementation Consultant](https://jobs.trustaffingpartners.com/?jobid=7678#/jobs/7678) | TRU Staffing Partners | Anywhere | 2026-11-12 |
+| [Application Security Developer III](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Application-Security-Developer-III_R14459) | CareSource | Remote | 2026-11-12 |
+| [AI Solutions Architect](https://materion.wd5.myworkdayjobs.com/Materion/job/Remote/AI-Solutions-Architect_2026-R8886-1) | Materion | Remote | 2026-11-12 |
+| [Sr. Cybersecurity Specialist](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Sr-Cybersecurity-Specialist_31166213) | Abbott (Columbus) | United States of America : Remote | 2026-11-12 |
+| [Manager, HR Technology & AI Solutions](https://levistraussandco.wd5.myworkdayjobs.com/External/job/Remote---USA/Manager--HR-Technology---AI-Solutions_R-0158485-1) | Levi Strauss | Remote - USA | 2026-11-12 |
 <!-- JOBS:END -->
 
 ## How it works
