@@ -45,9 +45,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **426** roles open total · updated `2026-11-12T10:10:09+00:00`
+### 🆕 3 new roles this update · 428 tracked total · updated `2026-11-12T18:40:30+00:00`
 
-Nothing new since the last run — [browse all 426 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| CareSource | 2 |
+| Cardinal Health | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [2027 Summer Internship Program - Software Engineer](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Software-Engineer_R14136) | CareSource | Remote | 2026-11-12 |
+| [AI Compliance Analyst II - Healthcare preferred](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/AI-Compliance-Analyst-II---Healthcare-preferred_R14425) | CareSource | Remote | 2026-11-12 |
+| [JDE Systems Engineer](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/Canada-British-Columbia-WFH/JDE-Systems-Engineer_20189990-1) | Cardinal Health | Canada-British Columbia-WFH | 2026-11-12 |
 <!-- JOBS:END -->
 
 ## How it works
