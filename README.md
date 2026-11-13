@@ -45,19 +45,21 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 435 tracked total · updated `2026-11-13T18:07:11+00:00`
+### 🆕 5 new roles this update · 440 tracked total · updated `2026-11-13T23:47:35+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| L3Harris | 3 |
-| Pragmatike | 1 |
+| CareSource | 3 |
+| Apex Systems | 1 |
+| Root Insurance | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Research Engineer Privacy and Anonymization](https://remoteOK.com/remote-jobs/remote-research-engineer-privacy-and-anonymization-pragmatike-1137792) | Pragmatike | Remote (Worldwide) | 2026-11-13 |
-| [Specialist, Application Developer - Full Stack Developer](https://careers.l3harris.com/en/job/united-states/specialist-application-developer-full-stack-developer/4832/101656983616) | L3Harris | Remote | 2026-11-13 |
-| [Senior Associate, Application Developer - Full Stack Developer](https://careers.l3harris.com/en/job/united-states/senior-associate-application-developer-full-stack-developer/4832/101656983456) | L3Harris | Remote | 2026-11-13 |
-| [Senior Specialist, Application Developer - Full Stack Developer](https://careers.l3harris.com/en/job/united-states/senior-specialist-application-developer-full-stack-developer/4832/101656983440) | L3Harris | Remote | 2026-11-13 |
+| [Software Engineering - Software Engineer III](https://www.apexsystems.com/job/3059307_usa/software-engineering---software-engineer-iii) | Apex Systems | Remote Location, CA | 2026-11-13 |
+| [Manager, Enterprise Engineering Solutions (EES)](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Manager--Enterprise-Engineering-Solutions--EES-_R14292) | CareSource | Remote | 2026-11-13 |
+| [AI Solution Consultant](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/AI-Solution-Consultant_R14438) | CareSource | Remote | 2026-11-13 |
+| [AI Analyst II](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/AI-Analyst-II_R14590) | CareSource | Remote | 2026-11-13 |
+| [IT Audit Manager, Internal Audit & Internal Controls](https://ats.rippling.com/joinroot/jobs/bd560c05-31b6-4dcd-a456-f0d5c993b7c6) | Root Insurance | Remote (United States) | 2026-11-13 |
 <!-- JOBS:END -->
 
 ## How it works
