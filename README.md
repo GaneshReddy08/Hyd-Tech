@@ -45,19 +45,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 431 tracked total · updated `2026-11-13T01:27:17+00:00`
+### 🟢 No new roles this update · **431** roles open total · updated `2026-11-13T09:54:41+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Gina's Tech Jobs | 1 |
-| Next Step Systems | 1 |
-| ProMedica | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Desktop Engineer, Electron Applications and Artificial Intelligence (AI) Experience Required, Work From Home](https://www.ginastechjobs.com/job/desktop-engineer-electron-applications-and-artificial-intelligence-ai-experience-required-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-11-13 |
-| [Desktop Engineer, Electron Applications and Artificial Intelligence (AI) Experience Required, Work From Home](https://www.nextstepsystems.com/job/desktop-engineer-electron-applications-and-artificial-intelligence-ai-experience-required-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-11-13 |
-| [Business System Analyst](https://promedica.wd12.myworkdayjobs.com/External_Careers/job/Remote---US/Business-System-Analyst_JR-10168) | ProMedica | Remote - US | 2026-11-13 |
+Nothing new since the last run — [browse all 431 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
