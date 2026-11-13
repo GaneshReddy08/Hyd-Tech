@@ -45,18 +45,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 428 tracked total · updated `2026-11-12T18:40:30+00:00`
+### 🆕 3 new roles this update · 431 tracked total · updated `2026-11-13T01:27:17+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| CareSource | 2 |
-| Cardinal Health | 1 |
+| Gina's Tech Jobs | 1 |
+| Next Step Systems | 1 |
+| ProMedica | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [2027 Summer Internship Program - Software Engineer](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Software-Engineer_R14136) | CareSource | Remote | 2026-11-12 |
-| [AI Compliance Analyst II - Healthcare preferred](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/AI-Compliance-Analyst-II---Healthcare-preferred_R14425) | CareSource | Remote | 2026-11-12 |
-| [JDE Systems Engineer](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/Canada-British-Columbia-WFH/JDE-Systems-Engineer_20189990-1) | Cardinal Health | Canada-British Columbia-WFH | 2026-11-12 |
+| [Desktop Engineer, Electron Applications and Artificial Intelligence (AI) Experience Required, Work From Home](https://www.ginastechjobs.com/job/desktop-engineer-electron-applications-and-artificial-intelligence-ai-experience-required-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-11-13 |
+| [Desktop Engineer, Electron Applications and Artificial Intelligence (AI) Experience Required, Work From Home](https://www.nextstepsystems.com/job/desktop-engineer-electron-applications-and-artificial-intelligence-ai-experience-required-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-11-13 |
+| [Business System Analyst](https://promedica.wd12.myworkdayjobs.com/External_Careers/job/Remote---US/Business-System-Analyst_JR-10168) | ProMedica | Remote - US | 2026-11-13 |
 <!-- JOBS:END -->
 
 ## How it works
