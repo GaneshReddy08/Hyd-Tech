@@ -45,9 +45,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **431** roles open total · updated `2026-11-13T09:54:41+00:00`
+### 🆕 4 new roles this update · 435 tracked total · updated `2026-11-13T18:07:11+00:00`
 
-Nothing new since the last run — [browse all 431 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| L3Harris | 3 |
+| Pragmatike | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Research Engineer Privacy and Anonymization](https://remoteOK.com/remote-jobs/remote-research-engineer-privacy-and-anonymization-pragmatike-1137792) | Pragmatike | Remote (Worldwide) | 2026-11-13 |
+| [Specialist, Application Developer - Full Stack Developer](https://careers.l3harris.com/en/job/united-states/specialist-application-developer-full-stack-developer/4832/101656983616) | L3Harris | Remote | 2026-11-13 |
+| [Senior Associate, Application Developer - Full Stack Developer](https://careers.l3harris.com/en/job/united-states/senior-associate-application-developer-full-stack-developer/4832/101656983456) | L3Harris | Remote | 2026-11-13 |
+| [Senior Specialist, Application Developer - Full Stack Developer](https://careers.l3harris.com/en/job/united-states/senior-specialist-application-developer-full-stack-developer/4832/101656983440) | L3Harris | Remote | 2026-11-13 |
 <!-- JOBS:END -->
 
 ## How it works
