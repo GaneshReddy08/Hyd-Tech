@@ -45,15 +45,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 441 tracked total · updated `2026-11-14T06:27:23+00:00`
+### 🟢 No new roles this update · **441** roles open total · updated `2026-11-14T15:19:30+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Supabase | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Software Engineer AI Tooling](https://remoteOK.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793) | Supabase | Remote (Worldwide) | 2026-11-14 |
+Nothing new since the last run — [browse all 441 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
