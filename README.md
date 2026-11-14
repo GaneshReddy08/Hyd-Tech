@@ -45,21 +45,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 440 tracked total · updated `2026-11-13T23:47:35+00:00`
+### 🆕 1 new roles this update · 441 tracked total · updated `2026-11-14T06:27:23+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| CareSource | 3 |
-| Apex Systems | 1 |
-| Root Insurance | 1 |
+| Supabase | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Software Engineering - Software Engineer III](https://www.apexsystems.com/job/3059307_usa/software-engineering---software-engineer-iii) | Apex Systems | Remote Location, CA | 2026-11-13 |
-| [Manager, Enterprise Engineering Solutions (EES)](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Manager--Enterprise-Engineering-Solutions--EES-_R14292) | CareSource | Remote | 2026-11-13 |
-| [AI Solution Consultant](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/AI-Solution-Consultant_R14438) | CareSource | Remote | 2026-11-13 |
-| [AI Analyst II](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/AI-Analyst-II_R14590) | CareSource | Remote | 2026-11-13 |
-| [IT Audit Manager, Internal Audit & Internal Controls](https://ats.rippling.com/joinroot/jobs/bd560c05-31b6-4dcd-a456-f0d5c993b7c6) | Root Insurance | Remote (United States) | 2026-11-13 |
+| [Software Engineer AI Tooling](https://remoteOK.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793) | Supabase | Remote (Worldwide) | 2026-11-14 |
 <!-- JOBS:END -->
 
 ## How it works
