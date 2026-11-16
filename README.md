@@ -45,9 +45,20 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **434** roles open total · updated `2026-11-16T06:47:47+00:00`
+### 🆕 4 new roles this update · 436 tracked total · updated `2026-11-16T18:53:22+00:00`
 
-Nothing new since the last run — [browse all 434 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| Diebold Nixdorf | 2 |
+| GE Aerospace | 1 |
+| Cincinnati Insurance | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Associate Service Desk Representative](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20636) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-11-16 |
+| [Associate Service Desk Representative](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20756) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-11-16 |
+| [Data Analyst- Insurance Claims](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Operations-Data-Analyst--Insurance_R5035881-1) | GE Aerospace | Remote | 2026-11-16 |
+| [IT - Developer III - V (Remote)](https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=169789) | Cincinnati Insurance | ["Remote"] | 2026-11-16 |
 <!-- JOBS:END -->
 
 ## How it works
