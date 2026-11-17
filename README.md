@@ -45,17 +45,23 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 435 tracked total · updated `2026-11-17T13:45:45+00:00`
+### 🆕 5 new roles this update · 440 tracked total · updated `2026-11-17T22:46:53+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| GE Aerospace | 1 |
-| Vertiv | 1 |
+| Strategic Staffing Solutions | 1 |
+| TRU Staffing Partners | 1 |
+| Branch Insurance | 1 |
+| Abbott (Columbus) | 1 |
+| Dayton Children's Hospital | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Applied AI Engineer Intern (m/f/d) – Spring 2027](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Applied-AI-Engineer-Intern--m-f-d----Spring-2027_R5043333-1) | GE Aerospace | Remote | 2026-11-17 |
-| [Application Development & Support Analyst](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286987) | Vertiv | Hyderabad, India | 2026-11-17 |
+| [Site Reliability Engineer Sre Ot](https://jobs.strategicstaff.com/jobs/site-reliability-engineer-sre-ot-170651/) | Strategic Staffing Solutions | Remote, Argentina | 2026-11-17 |
+| [Director, AI Operations](https://jobs.trustaffingpartners.com/?jobid=7683#/jobs/7683) | TRU Staffing Partners | Anywhere | 2026-11-17 |
+| [Android Engineer](https://job-boards.greenhouse.io/branch/jobs/8207537003) | Branch Insurance | Remote, US | 2026-11-17 |
+| [Senior AI Product Manager](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Senior-AI-Product-Manager_31167448) | Abbott (Columbus) | United States of America : Remote | 2026-11-17 |
+| [Epic Project Manager](https://daytonchildrens.wd1.myworkdayjobs.com/dayton_childrens_career_site/job/Work-from-Home---Hybrid---Ohio/Epic-Project-Manager_R24828) | Dayton Children's Hospital | Work from Home - Hybrid - Ohio | 2026-11-17 |
 <!-- JOBS:END -->
 
 ## How it works
