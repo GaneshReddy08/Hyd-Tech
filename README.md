@@ -45,15 +45,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 433 tracked total · updated `2026-11-17T03:17:31+00:00`
+### 🆕 2 new roles this update · 435 tracked total · updated `2026-11-17T13:45:45+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Cincinnati Insurance | 1 |
+| GE Aerospace | 1 |
+| Vertiv | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [IT - Testing Engineer IV (Remote)](https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=170209) | Cincinnati Insurance | ["Remote"] | 2026-11-17 |
+| [Applied AI Engineer Intern (m/f/d) – Spring 2027](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Applied-AI-Engineer-Intern--m-f-d----Spring-2027_R5043333-1) | GE Aerospace | Remote | 2026-11-17 |
+| [Application Development & Support Analyst](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286987) | Vertiv | Hyderabad, India | 2026-11-17 |
 <!-- JOBS:END -->
 
 ## How it works
