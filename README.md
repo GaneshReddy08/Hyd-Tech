@@ -45,18 +45,22 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 438 tracked total · updated `2026-11-18T07:46:07+00:00`
+### 🆕 5 new roles this update · 442 tracked total · updated `2026-11-18T17:36:03+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Clera | 2 |
-| PatientPoint | 1 |
+| Hyland Software | 2 |
+| Strategic Staffing Solutions | 1 |
+| Diebold Nixdorf | 1 |
+| Path Robotics | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Expert Talent Pool Physical AI](https://remoteOK.com/remote-jobs/remote-expert-talent-pool-physical-ai-clera-1137799) | Clera | Remote (Worldwide) | 2026-11-18 |
-| [Expert Talent Pool Feedback and Alignment](https://remoteOK.com/remote-jobs/remote-expert-talent-pool-feedback-and-alignment-clera-1137798) | Clera | Remote (Worldwide) | 2026-11-18 |
-| [Engineering Manager Network Engineering](https://remoteOK.com/remote-jobs/remote-engineering-manager-network-engineering-patientpoint-1137797) | PatientPoint | Remote | 2026-11-18 |
+| [Audit Manager](https://jobs.strategicstaff.com/jobs/audit-manager-170680/) | Strategic Staffing Solutions | Remote, Argentina | 2026-11-18 |
+| [Senior Principal Business Intelligence Analyst](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20794) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-11-18 |
+| [Machine Learning Engineer, Robotics](https://boards.greenhouse.io/pathrobotics/jobs/8949716002?gh_jid=8949716002) | Path Robotics | Columbus, Ohio or Remote | 2026-11-18 |
+| [Senior Developer - Cloud Content AIE](https://careers-hyland.icims.com/jobs/14727/senior-developer---cloud-content-aie/job?in_iframe=1) | Hyland Software | Hyderabad, TG | 2026-11-18 |
+| [Lead Developer - Cloud Content](https://careers-hyland.icims.com/jobs/14726/lead-developer---cloud-content/job?in_iframe=1) | Hyland Software | Hyderabad, TG | 2026-11-18 |
 <!-- JOBS:END -->
 
 ## How it works
