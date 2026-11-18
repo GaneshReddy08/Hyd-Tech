@@ -45,23 +45,18 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 440 tracked total · updated `2026-11-17T22:46:53+00:00`
+### 🆕 3 new roles this update · 438 tracked total · updated `2026-11-18T07:46:07+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Strategic Staffing Solutions | 1 |
-| TRU Staffing Partners | 1 |
-| Branch Insurance | 1 |
-| Abbott (Columbus) | 1 |
-| Dayton Children's Hospital | 1 |
+| Clera | 2 |
+| PatientPoint | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Site Reliability Engineer Sre Ot](https://jobs.strategicstaff.com/jobs/site-reliability-engineer-sre-ot-170651/) | Strategic Staffing Solutions | Remote, Argentina | 2026-11-17 |
-| [Director, AI Operations](https://jobs.trustaffingpartners.com/?jobid=7683#/jobs/7683) | TRU Staffing Partners | Anywhere | 2026-11-17 |
-| [Android Engineer](https://job-boards.greenhouse.io/branch/jobs/8207537003) | Branch Insurance | Remote, US | 2026-11-17 |
-| [Senior AI Product Manager](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Senior-AI-Product-Manager_31167448) | Abbott (Columbus) | United States of America : Remote | 2026-11-17 |
-| [Epic Project Manager](https://daytonchildrens.wd1.myworkdayjobs.com/dayton_childrens_career_site/job/Work-from-Home---Hybrid---Ohio/Epic-Project-Manager_R24828) | Dayton Children's Hospital | Work from Home - Hybrid - Ohio | 2026-11-17 |
+| [Expert Talent Pool Physical AI](https://remoteOK.com/remote-jobs/remote-expert-talent-pool-physical-ai-clera-1137799) | Clera | Remote (Worldwide) | 2026-11-18 |
+| [Expert Talent Pool Feedback and Alignment](https://remoteOK.com/remote-jobs/remote-expert-talent-pool-feedback-and-alignment-clera-1137798) | Clera | Remote (Worldwide) | 2026-11-18 |
+| [Engineering Manager Network Engineering](https://remoteOK.com/remote-jobs/remote-engineering-manager-network-engineering-patientpoint-1137797) | PatientPoint | Remote | 2026-11-18 |
 <!-- JOBS:END -->
 
 ## How it works
