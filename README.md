@@ -45,9 +45,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **441** roles open total · updated `2026-11-19T10:48:01+00:00`
+### 🆕 1 new roles this update · 441 tracked total · updated `2026-11-19T20:59:46+00:00`
 
-Nothing new since the last run — [browse all 441 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| Treatwell | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [SEO Full Stack Engineer](https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805) | Treatwell | Remote (Worldwide) | 2026-11-19 |
 <!-- JOBS:END -->
 
 ## How it works
