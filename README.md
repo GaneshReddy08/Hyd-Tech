@@ -45,22 +45,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 5 new roles this update · 442 tracked total · updated `2026-11-18T17:36:03+00:00`
+### 🆕 2 new roles this update · 441 tracked total · updated `2026-11-19T00:44:05+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Hyland Software | 2 |
-| Strategic Staffing Solutions | 1 |
-| Diebold Nixdorf | 1 |
-| Path Robotics | 1 |
+| Fifth Third Bank | 1 |
+| Levi Strauss | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Audit Manager](https://jobs.strategicstaff.com/jobs/audit-manager-170680/) | Strategic Staffing Solutions | Remote, Argentina | 2026-11-18 |
-| [Senior Principal Business Intelligence Analyst](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20794) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-11-18 |
-| [Machine Learning Engineer, Robotics](https://boards.greenhouse.io/pathrobotics/jobs/8949716002?gh_jid=8949716002) | Path Robotics | Columbus, Ohio or Remote | 2026-11-18 |
-| [Senior Developer - Cloud Content AIE](https://careers-hyland.icims.com/jobs/14727/senior-developer---cloud-content-aie/job?in_iframe=1) | Hyland Software | Hyderabad, TG | 2026-11-18 |
-| [Lead Developer - Cloud Content](https://careers-hyland.icims.com/jobs/14726/lead-developer---cloud-content/job?in_iframe=1) | Hyland Software | Hyderabad, TG | 2026-11-18 |
+| [Senior Software Engineer](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/Senior-Software-Engineer_R75052-1) | Fifth Third Bank | Virtual | 2026-11-19 |
+| [Manager, ERP Engineering (BTPAI)](https://levistraussandco.wd5.myworkdayjobs.com/External/job/Remote---CAN/Manager--ERP-Engineering--BTPAI-_R-0158511-1) | Levi Strauss | Remote - CAN | 2026-11-19 |
 <!-- JOBS:END -->
 
 ## How it works
