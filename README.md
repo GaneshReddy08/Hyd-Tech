@@ -45,17 +45,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 2 new roles this update · 441 tracked total · updated `2026-11-19T00:44:05+00:00`
+### 🟢 No new roles this update · **441** roles open total · updated `2026-11-19T10:48:01+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Fifth Third Bank | 1 |
-| Levi Strauss | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Senior Software Engineer](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Virtual/Senior-Software-Engineer_R75052-1) | Fifth Third Bank | Virtual | 2026-11-19 |
-| [Manager, ERP Engineering (BTPAI)](https://levistraussandco.wd5.myworkdayjobs.com/External/job/Remote---CAN/Manager--ERP-Engineering--BTPAI-_R-0158511-1) | Levi Strauss | Remote - CAN | 2026-11-19 |
+Nothing new since the last run — [browse all 441 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
