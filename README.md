@@ -45,15 +45,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 441 tracked total · updated `2026-11-20T03:30:03+00:00`
+### 🆕 2 new roles this update · 443 tracked total · updated `2026-11-20T13:21:36+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Compunnel | 1 |
+| Askable | 1 |
+| Emerson | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [SAP Techno-Functional Specialist](https://jobs.compunnel.com/jobs/6165860) | Compunnel | Hyderabad, Telangana, India | 2026-11-20 |
+| [Software Engineer AI Coding Tasks](https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137808) | Askable | Remote (Worldwide) | 2026-11-20 |
+| [Senior Tester](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014210) | Emerson | HYDERABAD, TELANGANA, India | 2026-11-20 |
 <!-- JOBS:END -->
 
 ## How it works
