@@ -45,15 +45,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 441 tracked total · updated `2026-11-19T20:59:46+00:00`
+### 🆕 1 new roles this update · 441 tracked total · updated `2026-11-20T03:30:03+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Treatwell | 1 |
+| Compunnel | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [SEO Full Stack Engineer](https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805) | Treatwell | Remote (Worldwide) | 2026-11-19 |
+| [SAP Techno-Functional Specialist](https://jobs.compunnel.com/jobs/6165860) | Compunnel | Hyderabad, Telangana, India | 2026-11-20 |
 <!-- JOBS:END -->
 
 ## How it works
