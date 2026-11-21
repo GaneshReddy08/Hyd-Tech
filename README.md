@@ -45,19 +45,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 446 tracked total · updated `2026-11-20T22:14:37+00:00`
+### 🟢 No new roles this update · **446** roles open total · updated `2026-11-21T03:36:51+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Nationwide | 1 |
-| Cardinal Health | 1 |
-| CrossCountry Mortgage | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Sr. Consultant, Data Product Owner (ESS Programs)](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Arizona-Work-from-Home-2/Sr-Consultant--Data-Product-Owner--ESS-Programs-_101505) | Nationwide | Arizona-Work from Home-2 | 2026-11-20 |
-| [Senior Engineer, SAP Pricing and Vistex](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-Work-from-Home/Senior-Engineer--SAP-Pricing-and-Vistex_20191064) | Cardinal Health | OH-Ohio-Work from Home | 2026-11-20 |
-| [Loan Support Specialist - Pacific Region](https://crosscountrymortgage.wd1.myworkdayjobs.com/CCMCareers/job/Remote-USA/Loan-Support-Specialist---Pacific-Region_JR03885) | CrossCountry Mortgage | Remote USA | 2026-11-20 |
+Nothing new since the last run — [browse all 446 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
