@@ -1,7 +1,51 @@
 {
-  "updated": "2026-11-21T03:36:51+00:00",
-  "count": 446,
+  "updated": "2026-11-21T13:00:10+00:00",
+  "count": 450,
   "jobs": [
+    {
+      "firm": "Gina's Tech Jobs",
+      "title": "Software Engineer, AI Automation, Artificial Intelligence (AI) Required, Work From Home",
+      "location": "San Francisco, CA, USA (Remote)",
+      "url": "https://www.ginastechjobs.com/job/software-engineer-ai-automation-artificial-intelligence-ai-required-work-from-home/",
+      "posted": "2026-11-21",
+      "id": "83f6a59fbcb4",
+      "first_seen": "2026-11-21T13:00:10+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
+      "readme_posted": true
+    },
+    {
+      "firm": "Gina's Tech Jobs",
+      "title": "Lead Engineer, Artificial Intelligence (AI) Required, Work From Home",
+      "location": "San Francisco, CA, USA (Remote)",
+      "url": "https://www.ginastechjobs.com/job/lead-engineer-artificial-intelligence-ai-required-work-from-home/",
+      "posted": "2026-11-21",
+      "id": "acced1413a89",
+      "first_seen": "2026-11-21T13:00:10+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
+      "readme_posted": true
+    },
+    {
+      "firm": "Next Step Systems",
+      "title": "Software Engineer, AI Automation, Artificial Intelligence (AI) Required, Work From Home",
+      "location": "San Francisco, CA, USA (Remote)",
+      "url": "https://www.nextstepsystems.com/job/software-engineer-ai-automation-artificial-intelligence-ai-required-work-from-home/",
+      "posted": "2026-11-21",
+      "id": "7b62b819acd3",
+      "first_seen": "2026-11-21T13:00:10+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
+      "readme_posted": true
+    },
+    {
+      "firm": "Next Step Systems",
+      "title": "Lead Engineer, Artificial Intelligence (AI) Required, Work From Home",
+      "location": "San Francisco, CA, USA (Remote)",
+      "url": "https://www.nextstepsystems.com/job/lead-engineer-artificial-intelligence-ai-required-work-from-home/",
+      "posted": "2026-11-21",
+      "id": "c88a3ecfac18",
+      "first_seen": "2026-11-21T13:00:10+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
+      "readme_posted": true
+    },
     {
       "firm": "Nationwide",
       "title": "Sr. Consultant, Data Product Owner (ESS Programs)",
@@ -10,7 +54,7 @@
       "posted": "",
       "id": "bd4d5240a412",
       "first_seen": "2026-11-20T22:14:37+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -18,10 +62,10 @@
       "title": "Senior Engineer, SAP Pricing and Vistex",
       "location": "OH-Ohio-Work from Home",
       "url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-Work-from-Home/Senior-Engineer--SAP-Pricing-and-Vistex_20191064",
-      "posted": "2026-11-21",
+      "posted": "2026-11-20",
       "id": "ee391e76676a",
       "first_seen": "2026-11-20T22:14:37+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -29,10 +73,10 @@
       "title": "Loan Support Specialist - Pacific Region",
       "location": "Remote USA",
       "url": "https://crosscountrymortgage.wd1.myworkdayjobs.com/CCMCareers/job/Remote-USA/Loan-Support-Specialist---Pacific-Region_JR03885",
-      "posted": "2026-11-21",
+      "posted": "2026-11-20",
       "id": "73652c31336f",
       "first_seen": "2026-11-20T22:14:37+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -41,7 +85,7 @@
       "location": "Remote (Worldwide)",
       "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137808",
       "posted": "2026-11-19T05:56:01+00:00",
-      "description": "<p dir=\"ltr\">We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$400-US$1,000 per task, and you can do as many tasks as you want.</p><p dir=\"ltr\">You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models, but fair for a skilled engineer. Your tasks are used to measure and train AI coding models.</p><p dir=\"ltr\">Remote, any location. US$400-US$1,000 per task that passes review. Minimum of one task a week, about 10 hours a week.</p><p dir=\"ltr\">How it works</p><ol><li dir=\"ltr\"><p dir=\"ltr\">Apply. Complete a short screener interview and upload your resume.</p></li><li dir=\"ltr\"><p dir=\"ltr\">Propose. Once you're selected, pick a change from a repository you know and submit a short proposal. We approve it or suggest a better candidate.</p></li><li dir=\"ltr\"><p dir=\"ltr\">Build. In our platform, set up the repository as it was before the change, then write the brief, the correct solution and the grading checks.</p></li><li dir=\"ltr\"><p dir=\"ltr\">Stress-test. Try lazy, incorrect and shortcut solutions and make sure your checks catch them.</p></li><li dir=\"ltr\"><p dir=\"ltr\">Model testing. Run your task against leading AI models until strong models often fail but a skilled engineer can clearly solve it.</p></li><li dir=\"ltr\"><p dir=\"ltr\">Review. A reviewer checks your task and you revise it. Most tasks take more than one round.</p></li><li dir=\"ltr\"><p dir=\"ltr\">Next task. Once your task is accepted, start another.</p></li></ol><p dir=\"ltr\"><br /></p><p dir=\"ltr\">Requirements</p><ul><li dir=\"ltr\"><p dir=\"ltr\">2+ years of professional software engineering</p></li><li dir=\"ltr\"><p dir=\"ltr\">Code merged into a public open-source repository, ideally one you know well. A private codebase you own may also qualify (not employer or client code)</p></li><li dir=\"ltr\"><p dir=\"ltr\">Strong in at least one of Python, TypeScript, Go, Rust, Java or C++</p></li><li dir=\"ltr\"><p dir=\"ltr\">Solid with Docker, Linux, Git and automated testing</p></li><li dir=\"ltr\"><p dir=\"ltr\">Regular use of an AI coding tool</p></li><li dir=\"ltr\"><p dir=\"ltr\">Experience writing tests, rubrics or evaluation criteria, ideally for AI models</p></li><li dir=\"ltr\"><p dir=\"ltr\">You can explain a change clearly and concisely, in your own words</p></li><li dir=\"ltr\"><p dir=\"ltr\">At least 10 hours a week, starting now</p></li><li dir=\"ltr\"><p dir=\"ltr\">A secure personal or work computer (no public or shared machines)</p></li></ul><p dir=\"ltr\"><br /></p><p dir=\"ltr\">Nice to have</p><ul><li dir=\"ltr\"><p dir=\"ltr\">Deep expertise in one area, such as databases, compilers, distributed systems, security or infrastructure</p></li><li dir=\"ltr\"><p dir=\"ltr\">Experience building agent tasks or RL environments</p></li></ul><p dir=\"ltr\"><br /></p><p dir=\"ltr\">Terms</p><ul><li dir=\"ltr\"><p dir=\"ltr\">Between US$400 - US$1,000 for each task that passes our quality review, paid directly to you</p></li><li dir=\"ltr\"><p dir=\"ltr\">Once your proposal is qualified, you sign Askable's contract and accept its terms</p></li><li dir=\"ltr\"><p dir=\"ltr\">The work is used for AI training. The change and your solution must be your own, and you must be free to license them to us</p></li><li dir=\"ltr\"><p dir=\"ltr\">Don't publish the work anywhere: no public pull request or public fork</p></li></ul><p dir=\"ltr\"><br /></p><p dir=\"ltr\">Apply at https://www.askable.com/experts/roles/senior-software-engineer</p><br/><br/>Please mention the word **FANS** and tag RMjAuOTguMTE3LjE4Nw== when applying to show you read the job post completely (#RMjAuOTguMTE3LjE4Nw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "<p dir=\"ltr\">We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$400-US$1,000 per task, and you can do as many tasks as you want.</p><p dir=\"ltr\">You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models, but fair for a skilled engineer. Your tasks are used to measure and train AI coding models.</p><p dir=\"ltr\">Remote, any location. US$400-US$1,000 per task that passes review. Minimum of one task a week, about 10 hours a week.</p><p dir=\"ltr\">How it works</p><ol><li dir=\"ltr\"><p dir=\"ltr\">Apply. Complete a short screener interview and upload your resume.</p></li><li dir=\"ltr\"><p dir=\"ltr\">Propose. Once you're selected, pick a change from a repository you know and submit a short proposal. We approve it or suggest a better candidate.</p></li><li dir=\"ltr\"><p dir=\"ltr\">Build. In our platform, set up the repository as it was before the change, then write the brief, the correct solution and the grading checks.</p></li><li dir=\"ltr\"><p dir=\"ltr\">Stress-test. Try lazy, incorrect and shortcut solutions and make sure your checks catch them.</p></li><li dir=\"ltr\"><p dir=\"ltr\">Model testing. Run your task against leading AI models until strong models often fail but a skilled engineer can clearly solve it.</p></li><li dir=\"ltr\"><p dir=\"ltr\">Review. A reviewer checks your task and you revise it. Most tasks take more than one round.</p></li><li dir=\"ltr\"><p dir=\"ltr\">Next task. Once your task is accepted, start another.</p></li></ol><p dir=\"ltr\"><br /></p><p dir=\"ltr\">Requirements</p><ul><li dir=\"ltr\"><p dir=\"ltr\">2+ years of professional software engineering</p></li><li dir=\"ltr\"><p dir=\"ltr\">Code merged into a public open-source repository, ideally one you know well. A private codebase you own may also qualify (not employer or client code)</p></li><li dir=\"ltr\"><p dir=\"ltr\">Strong in at least one of Python, TypeScript, Go, Rust, Java or C++</p></li><li dir=\"ltr\"><p dir=\"ltr\">Solid with Docker, Linux, Git and automated testing</p></li><li dir=\"ltr\"><p dir=\"ltr\">Regular use of an AI coding tool</p></li><li dir=\"ltr\"><p dir=\"ltr\">Experience writing tests, rubrics or evaluation criteria, ideally for AI models</p></li><li dir=\"ltr\"><p dir=\"ltr\">You can explain a change clearly and concisely, in your own words</p></li><li dir=\"ltr\"><p dir=\"ltr\">At least 10 hours a week, starting now</p></li><li dir=\"ltr\"><p dir=\"ltr\">A secure personal or work computer (no public or shared machines)</p></li></ul><p dir=\"ltr\"><br /></p><p dir=\"ltr\">Nice to have</p><ul><li dir=\"ltr\"><p dir=\"ltr\">Deep expertise in one area, such as databases, compilers, distributed systems, security or infrastructure</p></li><li dir=\"ltr\"><p dir=\"ltr\">Experience building agent tasks or RL environments</p></li></ul><p dir=\"ltr\"><br /></p><p dir=\"ltr\">Terms</p><ul><li dir=\"ltr\"><p dir=\"ltr\">Between US$400 - US$1,000 for each task that passes our quality review, paid directly to you</p></li><li dir=\"ltr\"><p dir=\"ltr\">Once your proposal is qualified, you sign Askable's contract and accept its terms</p></li><li dir=\"ltr\"><p dir=\"ltr\">The work is used for AI training. The change and your solution must be your own, and you must be free to license them to us</p></li><li dir=\"ltr\"><p dir=\"ltr\">Don't publish the work anywhere: no public pull request or public fork</p></li></ul><p dir=\"ltr\"><br /></p><p dir=\"ltr\">Apply at https://www.askable.com/experts/roles/senior-software-engineer</p><br/><br/>Please mention the word **FANS** and tag RMjAuMjIxLjcwLjIyNg== when applying to show you read the job post completely (#RMjAuMjIxLjcwLjIyNg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "work_mode": "Remote",
       "country": "",
       "job_type": "",
@@ -49,7 +93,7 @@
       "recruiter_email": "",
       "id": "e9d0bc6dd19a",
       "first_seen": "2026-11-20T13:21:36+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -60,7 +104,7 @@
       "posted": "2026-11-20",
       "id": "849ba58ae170",
       "first_seen": "2026-11-20T13:21:36+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -71,7 +115,7 @@
       "posted": "2026-11-11",
       "id": "de7e770a51f5",
       "first_seen": "2026-11-20T03:30:03+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -80,7 +124,7 @@
       "location": "Remote (Worldwide)",
       "url": "https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805",
       "posted": "2026-11-18T16:00:31+00:00",
-      "description": "<p>We're looking for a full-stack engineer to join our Product Engineering team, reporting to one of the Engineering Managers of the Marketplace area, with a dotted line to the Marketing SEO Manager, focused on supporting the Growth and Marketing area. This role will have a 60% focus on Front End, and 40% focus on Back End.</p><p>You'll work on Treatwell\u00e2\u0080\u0099s Marketplace products and help Treatwell be discovered, understood, and chosen across 13 markets: SEO foundations, site performance, experimentation, analytics instrumentation, and the product surfaces that connect customer intent with booking, alongside three product engineering teams in the Marketplace area, contributing across the full breadth of what makes Treatwell's marketplace tick. As a full-stack engineer, you're the person who can move fluidly between teams accelerating growth and marketing efforts wherever the need is greatest.</p><p>You bring the mindset of someone who cares about how people find Treatwell, what experience they land on, and whether the product helps them make a confident booking. You are comfortable partnering with marketing and growth stakeholders, while staying grounded in engineering quality and product outcomes.</p><p></p><p>\u00e2\u009e\u00a1\u00ef\u00b8\u008f Our product is built on:</p><ul><li>Backend: Java, Spring Boot, RabbitMQ, PostgreSQL, MS-SQL</li><li>Frontend: React, TypeScript, Cypress, Jest</li><li>Infrastructure: Kubernetes, GitLab CI/CD, AWS, Datadog</li><li>Mindset: DevOps, DDD, event-driven architecture</li></ul><p></p><p>\u00f0\u009f\u0092\u00a1 About Treatwell</p><p>Hi, we\u00e2\u0080\u0099re Treatwell. Nice to meet you.</p><p>We\u00e2\u0080\u0099re a team of 800 passionate and brilliantly talented people across Europe. We\u00e2\u0080\u0099re the industry\u00e2\u0080\u0099s smartest salon management software, all connected to Europe\u00e2\u0080\u0099s leading bookings platform, working with over 95,000 salon partners across 14 countries, processing over 14 million bookings every month. And\u00e2\u0080\u00a6.breathe.</p><p>But we\u00e2\u0080\u0099re not done yet. We\u00e2\u0080\u0099re on an exciting journey to digitally revolutionise the hair and beauty community.</p><p>If this excites you, we might just have the role for you.</p><p></p><p>\u00f0\u009f\u00a7\u0090 You will be responsible for:</p><ul><li>Growth and marketing engineering - build and evolve the technical foundations that support customer acquisition, activation, and retention across Treatwell's markets</li><li>Discoverability - improve how search engines and users understand Treatwell's marketplace, without turning the role into a pure SEO implementation function</li><li>Experimentation and measurement - instrument your work, support testing frameworks, and help teams validate ideas with data before scaling them</li><li>Product surfaces - ship user-facing improvements to landing pages, discovery journeys, and conversion flows, owning the work from problem framing through production</li><li>Platform quality - own your services end-to-end, from architecture through deployment, with a DevOps mindset baked in</li><li>Cross-functional clarity - translate growth and marketing opportunities into clear engineering work, challenge scope when needed, and keep quality standards high</li></ul><p></p><p>\u00f0\u009f\u0094\u009d About you:</p><ul><li>You have proven experience owning production-grade web applications end-to-end, and understand that the best technical decisions come from deeply understanding the problem - not just the code (mid/senior level)</li><li>You own features end-to-end - from database schema to UI, without needing a handoff</li><li>You think in systems and trade-offs, not just tickets - you spot the upstream cause, not just the downstream symptom</li><li>You have a product mindset - you think about the person using what you build, ask why before how, and push back when something doesn't make sense</li><li>You're data-driven and hypothesis-led - you instrument your work, measure impact, and use evidence to make decisions</li><li>You can partner with non-engineering stakeholders, turning ambiguous growth or marketing needs into sensible technical options</li><li>You will act as the key technical partner for marketing stakeholders, evaluating the feasibility of their requests, managing expectations, and finding the right trade-off between business speed and technical quality (TBC).</li><li>You are able to make progress in evolving or complex domains while collaborating to create clarity - growth work often moves fast, and you know how to navigate that without getting paralysed</li><li>Experience with SEO, experimentation, analytics, performance, or growth-related product areas</li><li>Experience with AI-assisted development tools such as Claude, Cursor, or similar - and clear opinions about where they genuinely add value is a plus</li><li>You can communicate fluently in English. </li><li>You are based in any city within Italy or Spain, with a valid right to work - candidates outside of these countries will not be considered.</li></ul><p></p><p>NOTE: If you don't meet every requirement but believe you'd thrive in this role, we'd still love to hear from you.</p><p>\u00f0\u009f\u0092\u00bc We\u00e2\u0080\u0099ll treat you with:</p><ul><li>28-days holiday, plus bank holidays \u00f0\u009f\u008f\u0096\u00ef\u00b8\u008f</li><li>Monthly \u00c2\u00a3/\u00e2\u0082\u00ac40 Treatwell vouchers so you can treat yourself too \u00f0\u009f\u0092 \u00f0\u009f\u008f\u00bb</li><li>100% remote position \u00f0\u009f\u00a7\u0091\u00f0\u009f\u008f\u00bb\u00e2\u0080\u008d\u00f0\u009f\u0092\u00bb</li><li>Market-specific benefits that will be discussed in the interview process</li></ul><p>\u00e2\u009a\u0096\u00ef\u00b8\u008f Equal Opportunities</p><p>Treatwell is an 'Open to All' employer and warmly welcomes everybody to the team. We are committed to making reasonable adjustments to the recruitment process as required. Please add any adjustment requests to your application.</p><p></p><br/><br/>Please mention the word **TENDER** and tag RMjAuOTguMTE3LjE4Nw== when applying to show you read the job post completely (#RMjAuOTguMTE3LjE4Nw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "<p>We're looking for a full-stack engineer to join our Product Engineering team, reporting to one of the Engineering Managers of the Marketplace area, with a dotted line to the Marketing SEO Manager, focused on supporting the Growth and Marketing area. This role will have a 60% focus on Front End, and 40% focus on Back End.</p><p>You'll work on Treatwell\u00e2\u0080\u0099s Marketplace products and help Treatwell be discovered, understood, and chosen across 13 markets: SEO foundations, site performance, experimentation, analytics instrumentation, and the product surfaces that connect customer intent with booking, alongside three product engineering teams in the Marketplace area, contributing across the full breadth of what makes Treatwell's marketplace tick. As a full-stack engineer, you're the person who can move fluidly between teams accelerating growth and marketing efforts wherever the need is greatest.</p><p>You bring the mindset of someone who cares about how people find Treatwell, what experience they land on, and whether the product helps them make a confident booking. You are comfortable partnering with marketing and growth stakeholders, while staying grounded in engineering quality and product outcomes.</p><p></p><p>\u00e2\u009e\u00a1\u00ef\u00b8\u008f Our product is built on:</p><ul><li>Backend: Java, Spring Boot, RabbitMQ, PostgreSQL, MS-SQL</li><li>Frontend: React, TypeScript, Cypress, Jest</li><li>Infrastructure: Kubernetes, GitLab CI/CD, AWS, Datadog</li><li>Mindset: DevOps, DDD, event-driven architecture</li></ul><p></p><p>\u00f0\u009f\u0092\u00a1 About Treatwell</p><p>Hi, we\u00e2\u0080\u0099re Treatwell. Nice to meet you.</p><p>We\u00e2\u0080\u0099re a team of 800 passionate and brilliantly talented people across Europe. We\u00e2\u0080\u0099re the industry\u00e2\u0080\u0099s smartest salon management software, all connected to Europe\u00e2\u0080\u0099s leading bookings platform, working with over 95,000 salon partners across 14 countries, processing over 14 million bookings every month. And\u00e2\u0080\u00a6.breathe.</p><p>But we\u00e2\u0080\u0099re not done yet. We\u00e2\u0080\u0099re on an exciting journey to digitally revolutionise the hair and beauty community.</p><p>If this excites you, we might just have the role for you.</p><p></p><p>\u00f0\u009f\u00a7\u0090 You will be responsible for:</p><ul><li>Growth and marketing engineering - build and evolve the technical foundations that support customer acquisition, activation, and retention across Treatwell's markets</li><li>Discoverability - improve how search engines and users understand Treatwell's marketplace, without turning the role into a pure SEO implementation function</li><li>Experimentation and measurement - instrument your work, support testing frameworks, and help teams validate ideas with data before scaling them</li><li>Product surfaces - ship user-facing improvements to landing pages, discovery journeys, and conversion flows, owning the work from problem framing through production</li><li>Platform quality - own your services end-to-end, from architecture through deployment, with a DevOps mindset baked in</li><li>Cross-functional clarity - translate growth and marketing opportunities into clear engineering work, challenge scope when needed, and keep quality standards high</li></ul><p></p><p>\u00f0\u009f\u0094\u009d About you:</p><ul><li>You have proven experience owning production-grade web applications end-to-end, and understand that the best technical decisions come from deeply understanding the problem - not just the code (mid/senior level)</li><li>You own features end-to-end - from database schema to UI, without needing a handoff</li><li>You think in systems and trade-offs, not just tickets - you spot the upstream cause, not just the downstream symptom</li><li>You have a product mindset - you think about the person using what you build, ask why before how, and push back when something doesn't make sense</li><li>You're data-driven and hypothesis-led - you instrument your work, measure impact, and use evidence to make decisions</li><li>You can partner with non-engineering stakeholders, turning ambiguous growth or marketing needs into sensible technical options</li><li>You will act as the key technical partner for marketing stakeholders, evaluating the feasibility of their requests, managing expectations, and finding the right trade-off between business speed and technical quality (TBC).</li><li>You are able to make progress in evolving or complex domains while collaborating to create clarity - growth work often moves fast, and you know how to navigate that without getting paralysed</li><li>Experience with SEO, experimentation, analytics, performance, or growth-related product areas</li><li>Experience with AI-assisted development tools such as Claude, Cursor, or similar - and clear opinions about where they genuinely add value is a plus</li><li>You can communicate fluently in English. </li><li>You are based in any city within Italy or Spain, with a valid right to work - candidates outside of these countries will not be considered.</li></ul><p></p><p>NOTE: If you don't meet every requirement but believe you'd thrive in this role, we'd still love to hear from you.</p><p>\u00f0\u009f\u0092\u00bc We\u00e2\u0080\u0099ll treat you with:</p><ul><li>28-days holiday, plus bank holidays \u00f0\u009f\u008f\u0096\u00ef\u00b8\u008f</li><li>Monthly \u00c2\u00a3/\u00e2\u0082\u00ac40 Treatwell vouchers so you can treat yourself too \u00f0\u009f\u0092 \u00f0\u009f\u008f\u00bb</li><li>100% remote position \u00f0\u009f\u00a7\u0091\u00f0\u009f\u008f\u00bb\u00e2\u0080\u008d\u00f0\u009f\u0092\u00bb</li><li>Market-specific benefits that will be discussed in the interview process</li></ul><p>\u00e2\u009a\u0096\u00ef\u00b8\u008f Equal Opportunities</p><p>Treatwell is an 'Open to All' employer and warmly welcomes everybody to the team. We are committed to making reasonable adjustments to the recruitment process as required. Please add any adjustment requests to your application.</p><p></p><br/><br/>Please mention the word **TENDER** and tag RMjAuMjIxLjcwLjIyNg== when applying to show you read the job post completely (#RMjAuMjIxLjcwLjIyNg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "work_mode": "Remote",
       "country": "",
       "job_type": "",
@@ -88,7 +132,7 @@
       "recruiter_email": "",
       "id": "a9992cf90d21",
       "first_seen": "2026-11-19T20:59:46+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -107,10 +151,10 @@
       "title": "Manager, ERP Engineering (BTPAI)",
       "location": "Remote - CAN",
       "url": "https://levistraussandco.wd5.myworkdayjobs.com/External/job/Remote---CAN/Manager--ERP-Engineering--BTPAI-_R-0158511-1",
-      "posted": "2026-11-19",
+      "posted": "2026-11-18",
       "id": "86900b3de4f8",
       "first_seen": "2026-11-19T00:44:05+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -132,7 +176,7 @@
       "posted": "2026-11-18",
       "id": "d9a1cc99d650",
       "first_seen": "2026-11-18T17:36:03+00:00",
-      "last_seen": "2026-11-20T22:14:37+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -143,7 +187,7 @@
       "posted": "2026-11-18T08:43:38-05:00",
       "id": "d7b26b0e4f26",
       "first_seen": "2026-11-18T17:36:03+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -238,7 +282,7 @@
       "posted": "",
       "id": "89c65dfca0cf",
       "first_seen": "2026-11-17T22:46:53+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -249,7 +293,7 @@
       "posted": "2026-11-17T14:25:31-05:00",
       "id": "7efa83a1dc42",
       "first_seen": "2026-11-17T22:46:53+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -257,10 +301,10 @@
       "title": "Senior AI Product Manager",
       "location": "United States of America : Remote",
       "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Senior-AI-Product-Manager_31167448",
-      "posted": "2026-11-18",
+      "posted": "2026-11-17",
       "id": "17e9fc3a75a5",
       "first_seen": "2026-11-17T22:46:53+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -268,10 +312,10 @@
       "title": "Epic Project Manager",
       "location": "Work from Home - Hybrid - Ohio",
       "url": "https://daytonchildrens.wd1.myworkdayjobs.com/dayton_childrens_career_site/job/Work-from-Home---Hybrid---Ohio/Epic-Project-Manager_R24828",
-      "posted": "2026-11-18",
+      "posted": "2026-11-17",
       "id": "6e3779ff3d46",
       "first_seen": "2026-11-17T22:46:53+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -334,10 +378,10 @@
       "title": "Data Analyst- Insurance Claims",
       "location": "Remote",
       "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Operations-Data-Analyst--Insurance_R5035881-1",
-      "posted": "2026-11-17",
+      "posted": "2026-11-16",
       "id": "63282bcc4eee",
       "first_seen": "2026-11-16T18:53:22+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -376,7 +420,7 @@
       "posted": "2026-11-13",
       "id": "78dda5605973",
       "first_seen": "2026-11-13T23:47:35+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -384,10 +428,10 @@
       "title": "Manager, Enterprise Engineering Solutions (EES)",
       "location": "Remote",
       "url": "https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Manager--Enterprise-Engineering-Solutions--EES-_R14292",
-      "posted": "2026-11-20",
+      "posted": "2026-11-19",
       "id": "be646ec7146e",
       "first_seen": "2026-11-13T23:47:35+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -481,7 +525,7 @@
       "posted": "2026-11-12",
       "id": "847beea9db95",
       "first_seen": "2026-11-13T01:27:17+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -492,7 +536,7 @@
       "posted": "2026-11-12",
       "id": "1bd3c35f1f87",
       "first_seen": "2026-11-13T01:27:17+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -522,10 +566,10 @@
       "title": "AI Compliance Analyst II - Healthcare preferred",
       "location": "Remote",
       "url": "https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/AI-Compliance-Analyst-II---Healthcare-preferred_R14425",
-      "posted": "2026-11-13",
+      "posted": "2026-11-12",
       "id": "135559c2991c",
       "first_seen": "2026-11-12T18:40:30+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -547,7 +591,7 @@
       "posted": "",
       "id": "4aacaaa6165f",
       "first_seen": "2026-11-12T01:06:14+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -588,10 +632,10 @@
       "title": "Manager, HR Technology & AI Solutions",
       "location": "Remote - USA",
       "url": "https://levistraussandco.wd5.myworkdayjobs.com/External/job/Remote---USA/Manager--HR-Technology---AI-Solutions_R-0158485-1",
-      "posted": "2026-11-12",
+      "posted": "2026-11-11",
       "id": "df5467acdcef",
       "first_seen": "2026-11-12T01:06:14+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -627,10 +671,10 @@
       "title": "Data Engineer (Databricks)",
       "location": "HYDERABAD OFFICE INDIA PSC PGH",
       "url": "https://pg.wd5.myworkdayjobs.com/1000/job/HYDERABAD-OFFICE-INDIA-PSC-PGH/Data-Engineer--Databricks-_R000162190",
-      "posted": "2026-11-11",
+      "posted": "2026-11-10",
       "id": "902245c65878",
       "first_seen": "2026-11-11T09:46:12+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -672,10 +716,10 @@
       "title": "FWA Payment Integrity Data Analyst III (Health Plan & SQL exp required)",
       "location": "Remote",
       "url": "https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/FWA-Payment-Integrity-Data-Analyst-III--Health-Plan---SQL-exp-required-_R14454",
-      "posted": "2026-11-19",
+      "posted": "2026-11-18",
       "id": "fefcfee93693",
       "first_seen": "2026-11-10T21:13:48+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -716,10 +760,10 @@
       "title": "Modeling & Simulation Machine Learning Engineer",
       "location": "HYDERABAD OFFICE APAC PSC GDOP",
       "url": "https://pg.wd5.myworkdayjobs.com/1000/job/HYDERABAD-OFFICE-APAC-PSC-GDOP/Modeling---Simulation-Machine-Learning-Engineer_R000161635",
-      "posted": "2026-11-09",
+      "posted": "2026-11-08",
       "id": "93ad0edb4ad1",
       "first_seen": "2026-11-08T09:19:23+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -803,7 +847,7 @@
       "posted": "",
       "id": "3d1aae4115e7",
       "first_seen": "2026-11-06T21:56:32+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -978,10 +1022,10 @@
       "title": "IT Business Analyst",
       "location": "OH-Ohio-Work from Home",
       "url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-Work-from-Home/IT-Business-Analyst_20189765",
-      "posted": "2026-11-06",
+      "posted": "2026-11-05",
       "id": "39faa231aafa",
       "first_seen": "2026-11-06T00:04:55+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -1017,10 +1061,10 @@
       "title": "Senior EMR Analyst - CINCI Lab",
       "location": "Remote",
       "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Senior-EMR-Analyst---CINCI-Lab_JR226550",
-      "posted": "2026-11-07",
+      "posted": "2026-11-06",
       "id": "3ddcc20b4e01",
       "first_seen": "2026-11-05T18:31:56+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -1028,10 +1072,10 @@
       "title": "Full Stack Developer Software Engineer",
       "location": "HYDERABAD OFFICE APAC PSC GDOP",
       "url": "https://pg.wd5.myworkdayjobs.com/1000/job/HYDERABAD-OFFICE-APAC-PSC-GDOP/Full-Stack-Developer-Software-Engineer_R000162157",
-      "posted": "2026-11-06",
+      "posted": "2026-11-05",
       "id": "0c9ae33c1d8d",
       "first_seen": "2026-11-05T09:47:45+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -1042,7 +1086,7 @@
       "posted": "1793805184",
       "id": "bb01be9f1798",
       "first_seen": "2026-11-04T20:07:41+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -1053,7 +1097,7 @@
       "posted": "1793804913",
       "id": "bacd42ce0c58",
       "first_seen": "2026-11-04T20:07:41+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -1221,10 +1265,10 @@
       "title": "Lead Supplier Quality Engineer - Metallic Powders & Melting",
       "location": "Remote",
       "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Lead-Supplier-Quality-Engineer---Metallic-Powders---Melting_R5042533-1",
-      "posted": "2026-11-03",
+      "posted": "2026-11-02",
       "id": "20c5a6aaa069",
       "first_seen": "2026-11-02T23:50:23+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -1265,10 +1309,10 @@
       "title": "Artificial Intelligence Intern",
       "location": "Remote",
       "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Artificial-Intelligence-Intern_R5042291-1",
-      "posted": "2026-11-11",
+      "posted": "2026-11-10",
       "id": "fae7305406a5",
       "first_seen": "2026-11-02T06:20:30+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -1290,7 +1334,7 @@
       "posted": "2026-11-01",
       "id": "6be713d4d552",
       "first_seen": "2026-11-01T13:39:54+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -1318,7 +1362,7 @@
       "posted": "2026-10-30T17:09:12-04:00",
       "id": "e27533da4257",
       "first_seen": "2026-10-31T00:05:45+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -1340,7 +1384,7 @@
       "posted": "2026-10-30T11:09:16-04:00",
       "id": "8595644f132c",
       "first_seen": "2026-10-30T19:43:45+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -1351,7 +1395,7 @@
       "posted": "2026-11-03",
       "id": "149efdd57a93",
       "first_seen": "2026-10-30T06:12:19+00:00",
-      "last_seen": "2026-11-20T22:14:37+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -1574,10 +1618,10 @@
       "title": "Product Owner, Client & Digital Support",
       "location": "Canada Remote",
       "url": "https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Canada-Remote/Product-Owner--Client---Digital-Support_R-109630",
-      "posted": "2026-10-29",
+      "posted": "2026-10-28",
       "id": "1c9a5921dc5f",
       "first_seen": "2026-10-28T08:51:53+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -1715,7 +1759,7 @@
       "posted": "2026-10-26T10:28:24-04:00",
       "id": "d64a0f16f51f",
       "first_seen": "2026-10-26T20:25:34+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -1867,10 +1911,10 @@
       "title": "AVP - Cloud Database Automation Engineer",
       "location": "Hyderabad IN",
       "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/AVP---Cloud-Database-Automation-Engineer_2602366",
-      "posted": "2026-11-19",
+      "posted": "2026-11-18",
       "id": "77925739579a",
       "first_seen": "2026-10-23T18:47:12+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -1909,7 +1953,7 @@
       "posted": "2026-10-23",
       "id": "fab35a3ec6f7",
       "first_seen": "2026-10-23T14:08:59+00:00",
-      "last_seen": "2026-11-20T22:14:37+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -2011,10 +2055,10 @@
       "title": "Business Analyst IV - Facets/Claim IT experience",
       "location": "Remote",
       "url": "https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Business-Analyst-IV_R13708",
-      "posted": "2026-10-23",
+      "posted": "2026-10-22",
       "id": "b0dae825f9e3",
       "first_seen": "2026-10-22T17:37:51+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -2033,10 +2077,10 @@
       "title": "Manager, Workday HCM",
       "location": "Work from Home - Hybrid - Ohio",
       "url": "https://daytonchildrens.wd1.myworkdayjobs.com/dayton_childrens_career_site/job/Work-from-Home---Hybrid---Ohio/Manager--Workday-HCM_R24653",
-      "posted": "2026-10-23",
+      "posted": "2026-10-22",
       "id": "e50ed3f2ba98",
       "first_seen": "2026-10-22T17:37:51+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -2364,10 +2408,10 @@
       "title": "AVP - Enterprise Client Computing Product Owner (L11)",
       "location": "Hyderabad IN",
       "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/AVP---Enterprise-Client-Computing-Product-Owner--L11-_2602878",
-      "posted": "2026-11-21",
+      "posted": "2026-11-20",
       "id": "7ff167f1dcb7",
       "first_seen": "2026-10-19T13:29:45+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -2683,7 +2727,7 @@
       "posted": "2026-10-22",
       "id": "b3e5f10d5a65",
       "first_seen": "2026-10-14T23:43:32+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -2826,7 +2870,7 @@
       "posted": "2022-12-08T15:31:47.000+0000",
       "id": "1112c9e73f25",
       "first_seen": "2026-10-14T08:02:37+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -2933,10 +2977,10 @@
       "title": "Analyst, Analytics - Data Quality Developer",
       "location": "Hyderabad IN",
       "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/Analyst--Analytics---Data-Quality-Developer_2602582-1",
-      "posted": "2026-11-18",
+      "posted": "2026-11-17",
       "id": "2f9d368e390a",
       "first_seen": "2026-10-13T16:28:20+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -3134,7 +3178,7 @@
       "posted": "2026-10-21",
       "id": "be1b733f4b31",
       "first_seen": "2026-10-12T15:58:09+00:00",
-      "last_seen": "2026-11-20T22:14:37+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -3289,7 +3333,7 @@
       "posted": "2026-10-22",
       "id": "a2837e7d1719",
       "first_seen": "2026-10-09T23:07:58+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -3322,7 +3366,7 @@
       "posted": "",
       "id": "472d87c507c2",
       "first_seen": "2026-10-09T17:30:32+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -3586,7 +3630,7 @@
       "posted": "2026-10-08",
       "id": "7a30e6e91e88",
       "first_seen": "2026-10-08T13:52:20+00:00",
-      "last_seen": "2026-11-20T22:14:37+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -3608,7 +3652,7 @@
       "posted": "2026-10-08",
       "id": "4d60eb1a4b02",
       "first_seen": "2026-10-08T13:52:20+00:00",
-      "last_seen": "2026-11-20T22:14:37+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -3616,10 +3660,10 @@
       "title": "Systems Analyst III",
       "location": "Remote Location",
       "url": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/EPIC-Resolute--Revenue-Cycle-Analyst-II_309370",
-      "posted": "2026-11-07",
+      "posted": "2026-11-06",
       "id": "700ed4f2f6e6",
       "first_seen": "2026-10-08T13:52:20+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -3795,7 +3839,7 @@
       "posted": "2026-10-07",
       "id": "d6e7026b790d",
       "first_seen": "2026-10-07T17:48:20+00:00",
-      "last_seen": "2026-11-20T22:14:37+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -3968,10 +4012,10 @@
       "title": "Epic Access Optimization Analyst I - Capacity Management",
       "location": "Remote Location",
       "url": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Epic-Access-Optimization-Analyst-I---Capacity-Management_351650",
-      "posted": "2026-11-21",
+      "posted": "2026-11-20",
       "id": "9bd8d2979849",
       "first_seen": "2026-10-06T15:36:01+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -4235,7 +4279,7 @@
       "posted": "2026-10-22",
       "id": "a8c11452235f",
       "first_seen": "2026-10-02T18:17:13+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -4319,7 +4363,7 @@
       "posted": "",
       "id": "6ab90c9d34b6",
       "first_seen": "2026-10-02T12:56:23+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -4330,7 +4374,7 @@
       "posted": "",
       "id": "5d22401ce0bf",
       "first_seen": "2026-10-02T12:56:23+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -4341,7 +4385,7 @@
       "posted": "",
       "id": "6a9727a9ad3f",
       "first_seen": "2026-10-02T12:56:23+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -4561,7 +4605,7 @@
       "posted": "2026-10-22",
       "id": "496d9ee04404",
       "first_seen": "2026-10-02T12:56:23+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -4569,10 +4613,10 @@
       "title": "LTSS & Dual Eligible Program Report Developer IV",
       "location": "Remote",
       "url": "https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/LTSS---Dual-Eligible-Program-Report-Developer-IV_R13047-1",
-      "posted": "2026-10-29",
+      "posted": "2026-10-28",
       "id": "b489c2cc1d46",
       "first_seen": "2026-10-02T12:56:23+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -4693,7 +4737,7 @@
       "posted": "",
       "id": "cb7641bc6052",
       "first_seen": "2026-10-02T12:56:23+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -4704,7 +4748,7 @@
       "posted": "",
       "id": "947f26bb2d79",
       "first_seen": "2026-10-02T12:56:23+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -4715,7 +4759,7 @@
       "posted": "",
       "id": "d2a807ab5b0b",
       "first_seen": "2026-10-02T12:56:23+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -4726,7 +4770,7 @@
       "posted": "",
       "id": "efdd8bec36ff",
       "first_seen": "2026-10-02T12:56:23+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -4737,7 +4781,7 @@
       "posted": "",
       "id": "df5dfa297291",
       "first_seen": "2026-10-02T12:56:23+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -4748,7 +4792,7 @@
       "posted": "",
       "id": "33e62ad4489d",
       "first_seen": "2026-10-02T12:56:23+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -4759,7 +4803,7 @@
       "posted": "",
       "id": "2e99aa81a0da",
       "first_seen": "2026-10-02T12:56:23+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -4770,7 +4814,7 @@
       "posted": "",
       "id": "9b4e60e00df0",
       "first_seen": "2026-10-02T12:56:23+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -4781,7 +4825,7 @@
       "posted": "",
       "id": "b4fb87cfa5a3",
       "first_seen": "2026-10-02T12:56:23+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -4792,7 +4836,7 @@
       "posted": "",
       "id": "3c8bd11a7941",
       "first_seen": "2026-10-02T12:56:23+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -4855,10 +4899,10 @@
       "title": "Product Director, AI & Agentic",
       "location": "US - REMOTE",
       "url": "https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/US---REMOTE/Product-Director--AI---Agentic_JR72620",
-      "posted": "2026-11-20",
+      "posted": "2026-11-19",
       "id": "f93ae7bd0842",
       "first_seen": "2026-10-02T12:56:23+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -4866,10 +4910,10 @@
       "title": "Software Engineering Lead",
       "location": "Ohio Remote",
       "url": "https://igsenergy.wd1.myworkdayjobs.com/IGS/job/Ohio-Remote/Software-Engineering-Lead_R6084",
-      "posted": "2026-10-29",
+      "posted": "2026-10-28",
       "id": "40aa4f72b81f",
       "first_seen": "2026-10-02T12:56:23+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -4979,7 +5023,7 @@
       "posted": "2026-10-22",
       "id": "2032d0f474be",
       "first_seen": "2026-10-02T12:56:23+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -4990,7 +5034,7 @@
       "posted": "2026-10-22",
       "id": "d416eea2cea2",
       "first_seen": "2026-10-02T12:56:23+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -5001,7 +5045,7 @@
       "posted": "2026-10-22",
       "id": "3fac63a3f605",
       "first_seen": "2026-10-02T12:56:23+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -5012,7 +5056,7 @@
       "posted": "2026-10-22",
       "id": "32529327a107",
       "first_seen": "2026-10-02T12:56:23+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
@@ -5023,7 +5067,7 @@
       "posted": "2026-10-22",
       "id": "411ccd916105",
       "first_seen": "2026-10-02T12:56:23+00:00",
-      "last_seen": "2026-11-21T03:36:51+00:00",
+      "last_seen": "2026-11-21T13:00:10+00:00",
       "readme_posted": true
     },
     {
