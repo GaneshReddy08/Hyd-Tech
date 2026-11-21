@@ -45,19 +45,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 450 tracked total · updated `2026-11-21T13:00:10+00:00`
+### 🟢 No new roles this update · **450** roles open total · updated `2026-11-21T20:52:25+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Gina's Tech Jobs | 2 |
-| Next Step Systems | 2 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Software Engineer, AI Automation, Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/software-engineer-ai-automation-artificial-intelligence-ai-required-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-11-21 |
-| [Lead Engineer, Artificial Intelligence (AI) Required, Work From Home](https://www.ginastechjobs.com/job/lead-engineer-artificial-intelligence-ai-required-work-from-home/) | Gina's Tech Jobs | San Francisco, CA, USA (Remote) | 2026-11-21 |
-| [Software Engineer, AI Automation, Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/software-engineer-ai-automation-artificial-intelligence-ai-required-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-11-21 |
-| [Lead Engineer, Artificial Intelligence (AI) Required, Work From Home](https://www.nextstepsystems.com/job/lead-engineer-artificial-intelligence-ai-required-work-from-home/) | Next Step Systems | San Francisco, CA, USA (Remote) | 2026-11-21 |
+Nothing new since the last run — [browse all 450 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
