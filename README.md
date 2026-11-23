@@ -45,15 +45,19 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 448 tracked total · updated `2026-11-23T07:56:03+00:00`
+### 🆕 3 new roles this update · 450 tracked total · updated `2026-11-23T20:33:30+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Hyland Software | 1 |
+| Synchrony | 1 |
+| Cleveland Clinic | 1 |
+| Procter & Gamble | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Senior Cyber Security Analyst](https://careers-hyland.icims.com/jobs/14649/senior-cyber-security-analyst/job?in_iframe=1) | Hyland Software | Hyderabad, TG | 2026-11-23 |
+| [AVP AI Security Architect (L11)](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/AVP-AI-Security-Architect--L11-_2603050) | Synchrony | Hyderabad IN | 2026-11-23 |
+| [HRIS/Workday Systems Analyst I](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/HRIS-Workday-Systems-Analyst-I_361672) | Cleveland Clinic | Remote Location | 2026-11-23 |
+| [Senior AI Engineer](https://pg.wd5.myworkdayjobs.com/1000/job/HYDERABAD-OFFICE-INDIA-PSC-PGH/Senior-AI-Engineer_R000161877) | Procter & Gamble | HYDERABAD OFFICE INDIA PSC PGH | 2026-11-23 |
 <!-- JOBS:END -->
 
 ## How it works
