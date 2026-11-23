@@ -45,9 +45,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **448** roles open total · updated `2026-11-22T23:55:24+00:00`
+### 🆕 1 new roles this update · 448 tracked total · updated `2026-11-23T07:56:03+00:00`
 
-Nothing new since the last run — [browse all 448 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| Hyland Software | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Senior Cyber Security Analyst](https://careers-hyland.icims.com/jobs/14649/senior-cyber-security-analyst/job?in_iframe=1) | Hyland Software | Hyderabad, TG | 2026-11-23 |
 <!-- JOBS:END -->
 
 ## How it works
