@@ -45,19 +45,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 450 tracked total · updated `2026-11-23T20:33:30+00:00`
+### 🟢 No new roles this update · **448** roles open total · updated `2026-11-24T05:12:28+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Synchrony | 1 |
-| Cleveland Clinic | 1 |
-| Procter & Gamble | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [AVP AI Security Architect (L11)](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/AVP-AI-Security-Architect--L11-_2603050) | Synchrony | Hyderabad IN | 2026-11-23 |
-| [HRIS/Workday Systems Analyst I](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/HRIS-Workday-Systems-Analyst-I_361672) | Cleveland Clinic | Remote Location | 2026-11-23 |
-| [Senior AI Engineer](https://pg.wd5.myworkdayjobs.com/1000/job/HYDERABAD-OFFICE-INDIA-PSC-PGH/Senior-AI-Engineer_R000161877) | Procter & Gamble | HYDERABAD OFFICE INDIA PSC PGH | 2026-11-23 |
+Nothing new since the last run — [browse all 448 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
