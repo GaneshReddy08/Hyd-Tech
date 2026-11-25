@@ -45,9 +45,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **450** roles open total · updated `2026-11-25T02:48:06+00:00`
+### 🆕 1 new roles this update · 451 tracked total · updated `2026-11-25T14:40:50+00:00`
 
-Nothing new since the last run — [browse all 450 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+| Firm | New roles |
+| --- | ---: |
+| Strategic Staffing Solutions | 1 |
+
+| Role | Firm | Location | Found |
+| --- | --- | --- | --- |
+| [Ot Application Engineer Level 2 Junior Role](https://jobs.strategicstaff.com/jobs/ot-application-engineer-level-2-junior-role-170679/) | Strategic Staffing Solutions | Remote, Argentina | 2026-11-25 |
 <!-- JOBS:END -->
 
 ## How it works
