@@ -45,21 +45,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 4 new roles this update · 451 tracked total · updated `2026-11-24T18:05:17+00:00`
+### 🟢 No new roles this update · **450** roles open total · updated `2026-11-25T02:48:06+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| CareSource | 1 |
-| Cardinal Health | 1 |
-| Vertiv | 1 |
-| Hyland Software | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [Health Plan Data Analyst II (need Health Plan/MCO and SQL)](https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/Health-Plan-Data-Analyst-II--need-Health-Plan-MCO-and-SQL-_R13941) | CareSource | Remote | 2026-11-24 |
-| [Director, IT - SAP Transformation Leader](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-Work-from-Home/Director--IT---SAP-Transformation-Leader_20191663-1) | Cardinal Health | OH-Ohio-Work from Home | 2026-11-24 |
-| [Application Development & Support Specialist](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20284172) | Vertiv | Hyderabad, India | 2026-11-24 |
-| [Lead Cloud Content AI Enablement Developer](https://careers-hyland.icims.com/jobs/14726/lead-cloud-content-ai-enablement-developer/job?in_iframe=1) | Hyland Software | Hyderabad, TG | 2026-11-24 |
+Nothing new since the last run — [browse all 450 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
