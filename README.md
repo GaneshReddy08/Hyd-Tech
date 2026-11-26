@@ -45,15 +45,17 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 451 tracked total · updated `2026-11-25T14:40:50+00:00`
+### 🆕 2 new roles this update · 450 tracked total · updated `2026-11-26T00:40:23+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Strategic Staffing Solutions | 1 |
+| Diebold Nixdorf | 1 |
+| Levi Strauss | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Ot Application Engineer Level 2 Junior Role](https://jobs.strategicstaff.com/jobs/ot-application-engineer-level-2-junior-role-170679/) | Strategic Staffing Solutions | Remote, Argentina | 2026-11-25 |
+| [Senior Business Intelligence Analyst](https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20795) | Diebold Nixdorf | Hyderabad, Telangana, India | 2026-11-26 |
+| [Director, Security Operations](https://levistraussandco.wd5.myworkdayjobs.com/External/job/Remote---USA/Director--Security-Operations_R-0160043) | Levi Strauss | Remote - USA | 2026-11-26 |
 <!-- JOBS:END -->
 
 ## How it works
