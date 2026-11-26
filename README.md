@@ -45,19 +45,15 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 3 new roles this update · 453 tracked total · updated `2026-11-26T11:13:31+00:00`
+### 🆕 1 new roles this update · 454 tracked total · updated `2026-11-26T21:50:25+00:00`
 
 | Firm | New roles |
 | --- | ---: |
-| Goodyear | 1 |
 | Synchrony | 1 |
-| Hyland Software | 1 |
 
 | Role | Firm | Location | Found |
 | --- | --- | --- | --- |
-| [Software Engineer Junior](https://goodyear.wd1.myworkdayjobs.com/GoodyearCareers/job/IN-Hyderabad/Software-Engineer-Junior_JR-40114500) | Goodyear | IN Hyderabad | 2026-11-26 |
-| [AVP, Web Engineer III - Apply and Buy Digital Apps (L10)](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/AVP--Web-Engineer-III---Apply-and-Buy-Digital-Apps--L10-_2603094-1) | Synchrony | Hyderabad IN | 2026-11-26 |
-| [Senior Cloud Content AI Enablement Developer](https://careers-hyland.icims.com/jobs/14727/senior-cloud-content-ai-enablement-developer/job?in_iframe=1) | Hyland Software | Hyderabad, TG | 2026-11-26 |
+| [AVP, Security Automation Developer (L10)](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/AVP--Security-Automation-Developer--L10-_2602153-1) | Synchrony | Hyderabad IN | 2026-11-26 |
 <!-- JOBS:END -->
 
 ## How it works
