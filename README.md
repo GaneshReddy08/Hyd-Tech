@@ -45,15 +45,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🆕 1 new roles this update · 454 tracked total · updated `2026-11-26T21:50:25+00:00`
+### 🟢 No new roles this update · **453** roles open total · updated `2026-11-27T04:36:36+00:00`
 
-| Firm | New roles |
-| --- | ---: |
-| Synchrony | 1 |
-
-| Role | Firm | Location | Found |
-| --- | --- | --- | --- |
-| [AVP, Security Automation Developer (L10)](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/AVP--Security-Automation-Developer--L10-_2602153-1) | Synchrony | Hyderabad IN | 2026-11-26 |
+Nothing new since the last run — [browse all 453 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
