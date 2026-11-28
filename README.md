@@ -45,9 +45,9 @@ parts that matter. Rooting for you. 💚
 ## 🆕 Live Jobs
 
 <!-- JOBS:START -->
-### 🟢 No new roles this update · **453** roles open total · updated `2026-11-27T23:05:09+00:00`
+### 🟢 No new roles this update · **450** roles open total · updated `2026-11-28T07:57:16+00:00`
 
-Nothing new since the last run — [browse all 453 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
+Nothing new since the last run — [browse all 450 open roles on the board »](https://siddarthareddy8.github.io/CinciTech/)
 <!-- JOBS:END -->
 
 ## How it works
